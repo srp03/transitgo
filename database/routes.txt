@@ -1,0 +1,1610 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+KDMT_5447,KDMT,01,Kalyan station To Kalyan station Via Durgadi (DOWN),3
+KDMT_5443,KDMT,02,Kalyan station To Kalyan station Via Birla College (DOWN),3
+KDMT_5499,KDMT,03,Sai Chowk to Kalyan Station (DOWN),3
+KDMT_5500,KDMT,03,Kalyan Station to Sai Chowk (UP),3
+KDMT_5793,KDMT,03,Depot To Sai Chowk (UP),3
+KDMT_5794,KDMT,03,Sai chowk To Depot (UP),3
+KDMT_5798,KDMT,03,Gandhari To Vithattalwadi Vai Kalyan Birla (UP),3
+KDMT_5799,KDMT,03,Vitthalwadi To Gandhari Vai Kalyan birla (DOWN),3
+KDMT_5800,KDMT,03,Depot To Vitthalwadi (DOWN),3
+KDMT_5803,KDMT,03,Vithattalwadi to Gandhari Vai Kalyan Birla (UP),3
+KDMT_5943,KDMT,03,Kalyan Station To Godrej Hill Vai Birla Collage (UP),3
+KDMT_5944,KDMT,03,Godrej Hill to Kalyan Station via Birla College (DOWN),3
+KDMT_5945,KDMT,03,Depot to Godrej Hill vai Birla Collage (UP),3
+KDMT_5946,KDMT,03,Godrej Hil To Ganesh Ghat Depot Vai Birla Collage (DOWN),3
+KDMT_5949,KDMT,03,Kalyan To Gove Naka (Mahanagar Gas) (UP),3
+KDMT_5950,KDMT,03,Gove Naka (Mahanagar Gas) To Kalyan (DOWN),3
+KDMT_5951,KDMT,03,Bardan Galli To Gove Naka (Mahanagar Gas) (UP),3
+KDMT_5952,KDMT,03,Gove Naka (Mahanagar Gas) To Bardan Galli (DOWN),3
+KDMT_5953,KDMT,03,Kalyan To Bardan Galli (UP),3
+KDMT_5954,KDMT,03,Bardan Galli To Kalyan (DOWN),3
+KDMT_5503,KDMT,04,Kalyan Station To Dombivli Station (UP),3
+KDMT_5504,KDMT,04,Dombivli Station To Kalyan Station (DOWN),3
+KDMT_5582,KDMT,04,Dombivli Station To Depot (DOWN),3
+KDMT_5583,KDMT,04,Depot To Dombivli Station (UP),3
+KDMT_5676,KDMT,04,Depot to Dombivli (UP),3
+KDMT_5677,KDMT,04,Depot To Niwasi (UP),3
+KDMT_5678,KDMT,04,Dombivli to Depot (UP),3
+KDMT_5679,KDMT,04,Niwasi To Depot (UP),3
+KDMT_5697,KDMT,04,Depot To Ramnagar (UP),3
+KDMT_5698,KDMT,04,Ramnagar To Depot (UP),3
+KDMT_5709,KDMT,04,Kalyan Station To Astitva (UP),3
+KDMT_5710,KDMT,04,Astitva to Kalyan Station (DOWN),3
+KDMT_5721,KDMT,04,Depot to Navneet Nagar (UP),3
+KDMT_5722,KDMT,04,Navneet Nagar to Depot (UP),3
+KDMT_5680,KDMT,05,Kalyan To Tawaripada (UP),3
+KDMT_5681,KDMT,05,Tawaripada To Kalyan (DOWN),3
+KDMT_5732,KDMT,05,Depot to Tawaripada (UP),3
+KDMT_5441,KDMT,07,Kalyan station To Mohana Colony (UP),3
+KDMT_5442,KDMT,07,Mohana Colony To Kalyan station (DOWN),3
+KDMT_5450,KDMT,13,Kalyan station To Manivali (UP),3
+KDMT_5451,KDMT,13,Manivali To Kalyan station (DOWN),3
+KDMT_5733,KDMT,13,Mohana Colony to Manivali (UP),3
+KDMT_5515,KDMT,15,Kalyan Station To Belapur Station (UP),3
+KDMT_5521,KDMT,15,Belapur Station To Kalyan Station (DOWN),3
+KDMT_5522,KDMT,16,Kalyan Station To Umbarde Gaon (UP),3
+KDMT_5523,KDMT,16,Umbarde Gaon To Kalyan Station (DOWN),3
+KDMT_5694,KDMT,16,Depot to Umbarde (DOWN),3
+KDMT_5695,KDMT,16,Umbarde To Depot (DOWN),3
+KDMT_5525,KDMT,20,Kalyan Station To Panvel (UP),3
+KDMT_5527,KDMT,20,Panvel To Kalyan Station (DOWN),3
+KDMT_5517,KDMT,21,Kalyan Station to Titwala Mandir (UP),3
+KDMT_5536,KDMT,21,Titwala Mandir To Kalyan Station (DOWN),3
+KDMT_5723,KDMT,21,Kalyan to Balyani (UP),3
+KDMT_5724,KDMT,21,Balyani to Mohana Colony (DOWN),3
+KDMT_5725,KDMT,21,Mohana Colony to Balyani (UP),3
+KDMT_5726,KDMT,21,Balyani to Depot (DOWN),3
+KDMT_5727,KDMT,21,Depot to Balyani (DOWN),3
+KDMT_5795,KDMT,28,Kalyan to Gandhari (Via  Lal Chowki ) (UP),3
+KDMT_5796,KDMT,28,Gandhari (Via Lal Chowki ) to Kalyan (DOWN),3
+KDMT_5797,KDMT,28,Kolivali to Depot (DOWN),3
+KDMT_5883,KDMT,28,Kalyan To Kolivali (Lal Chowki ) (UP),3
+KDMT_5884,KDMT,28,Kolivali To Kalyan ( Lal Chowki ) (DOWN),3
+KDMT_5452,KDMT,29,Kalyan station To Gandhari Via Heena Garden (UP),3
+KDMT_5453,KDMT,29,Gandhari To Kalyan station Via Heena Garden (DOWN),3
+KDMT_5885,KDMT,29,Kalyan To Kolivali (Heena Garden ) (UP),3
+KDMT_5886,KDMT,29,Kolivali To Kalyan ( Heena Garden ) (DOWN),3
+KDMT_5715,KDMT,33,Saravali to Vitthalwdadi (DOWN),3
+KDMT_5716,KDMT,33,Vitthalwdadi to Saravali (UP),3
+KDMT_5717,KDMT,33,Kalyan Station to Vitthalwdadi (UP),3
+KDMT_5718,KDMT,33,Vitthalwdadi to Kalyan Station (DOWN),3
+KDMT_5719,KDMT,33,Kalyan Station to Saravali (UP),3
+KDMT_5720,KDMT,33,Saravali to Kalyan Station (DOWN),3
+KDMT_5684,KDMT,34,Kalyan to Mankoli (UP),3
+KDMT_5685,KDMT,34,Mankoli to kalyan (DOWN),3
+KDMT_5769,KDMT,34,Depot to Vehele (UP),3
+KDMT_5770,KDMT,34,Kalyan Station to Vehele (UP),3
+KDMT_5771,KDMT,34,Vehele to Kalyan Station (DOWN),3
+KDMT_5705,KDMT,35,Kalyan Station To Chhatrapati Shivaji Maharaj Chowk (UP),3
+KDMT_5706,KDMT,35,Chhatrapati Shivaji Maharaj Chowk To Kalyan Station (DOWN),3
+KDMT_5789,KDMT,36,Kalyan Station To Dhamankar Naka (UP),3
+KDMT_5790,KDMT,36,Dhamankar Naka To Kalyan Station (DOWN),3
+KDMT_5524,KDMT,38,Kalyan Station To Vasat Gaon (UP),3
+KDMT_5526,KDMT,38,Vasat Gaon To Kalyan Station (DOWN),3
+KDMT_5783,KDMT,38,Kalyan Station To NMRL (UP),3
+KDMT_5784,KDMT,38,NMRL To Kalyan Station (DOWN),3
+KDMT_5690,KDMT,40,kalyan to khoni (UP),3
+KDMT_5693,KDMT,40,khoni to kalyan (DOWN),3
+KDMT_5519,KDMT,42,Kalyan Station-Vaklan (UP),3
+KDMT_5520,KDMT,42,Vaklan-Kalyan Station (DOWN),3
+KDMT_5516,KDMT,44,Kalyan Station- Burdul (UP),3
+KDMT_5518,KDMT,44,Burdul-Kalyan Station (DOWN),3
+KDMT_5513,KDMT,45,Kalyan Station-Malangad (UP),3
+KDMT_5514,KDMT,45,Malangad-Kalyan Station (DOWN),3
+KDMT_5674,KDMT,45,Kalyan To Nevali (UP),3
+KDMT_5675,KDMT,45,Nevali To Kalyan (DOWN),3
+KDMT_5930,KDMT,47,Titwala Ganesh Mandir To Balyani Chowk (DOWN),3
+KDMT_5931,KDMT,47,Balyani Chowk To Titwala Ganesh Mandir (UP),3
+KDMT_5507,KDMT,51,Dombivli To Casa Rio (UP),3
+KDMT_5508,KDMT,51,Casa Rio To Dombivli (DOWN),3
+KDMT_5688,KDMT,51,Depot To Casa Rio (UP),3
+KDMT_5689,KDMT,51,Casa Rio To Depot (DOWN),3
+KDMT_5728,KDMT,54,Dombivli to H Ward (UP),3
+KDMT_5729,KDMT,54,H Ward to Dombivli (DOWN),3
+KDMT_5730,KDMT,54,H Ward to Niwasi (DOWN),3
+KDMT_5731,KDMT,54,Niwasi to H Ward (UP),3
+KDMT_5505,KDMT,55,Niwasi vibhag To Dombivali (UP),3
+KDMT_5506,KDMT,55,Dombivali station To Niwasi vibhag (DOWN),3
+KDMT_5711,KDMT,55,Dombivli to Astitva (UP),3
+KDMT_5712,KDMT,55,Astitva To Dombivli (DOWN),3
+KDMT_5541,KDMT,57,Ramnagar To Bhopar (DOWN),3
+KDMT_5542,KDMT,57,Bhopar To Ramnagar (UP),3
+KDMT_5528,KDMT,58,Dombivli station To Navneet Nagar (UP),3
+KDMT_5529,KDMT,58,Navneet Nagar To Dombivli Station (DOWN),3
+KDMT_5699,KDMT,58,Ramnagar To Navneet Nagar (DOWN),3
+KDMT_5700,KDMT,58,Navneetnagar To Ramnagar (UP),3
+KDMT_5497,KDMT,62,Dombivali station - Khoni gaon (UP),3
+KDMT_5498,KDMT,62,Khoni Gaon to Dombivali Station (DOWN),3
+KDMT_5494,KDMT,63,Dombivali station - Shirdhona (UP),3
+KDMT_5496,KDMT,63,Shirdhona To Dombivli Station (DOWN),3
+KDMT_5585,KDMT,63,Dombivli Station To Depot (DOWN),3
+KDMT_5703,KDMT,63,Shirdhona To Depot (UP),3
+KDMT_5704,KDMT,63,Depot to Shirdhona (UP),3
+KDMT_5691,KDMT,64,Dombivli to Narivali/Vaklan (UP),3
+KDMT_5692,KDMT,64,Narivali/Vaklan to Dombivli (DOWN),3
+KDMT_5734,KDMT,64,Depot to Narivali/Vaklan (UP),3
+KDMT_5735,KDMT,64,Narivali/Vaklan to Depot (DOWN),3
+KDMT_5534,KDMT,65,Dombivli station To Davadi Gaon (UP),3
+KDMT_5535,KDMT,65,Davadi gaon To Dombivli Station (DOWN),3
+KDMT_5589,KDMT,65,Depot To Dombivli Station (UP),3
+KDMT_5590,KDMT,65,Dombivli Station To Depot (DOWN),3
+KDMT_5701,KDMT,65,Depot to Dawadi (UP),3
+KDMT_5702,KDMT,65,Dawadi To Depot (UP),3
+KDMT_5926,KDMT,67,"Dombivli - Sarvodaya Srishti 1/2 via Sunil Nagar, G Ward (UP)",3
+KDMT_5927,KDMT,67,Sarvodaya Sristi To Dombivali (DOWN),3
+KDMT_5707,KDMT,68,Dombivli to Sandap (UP),3
+KDMT_5708,KDMT,68,Sandap to Dombivli (DOWN),3
+KDMT_5787,KDMT,74,Casa Rio To Ghansoli (UP),3
+KDMT_5788,KDMT,74,Ghansoli To Casa Rio (DOWN),3
+KDMT_5791,KDMT,74,Dombivli To Ghansoli (UP),3
+KDMT_5792,KDMT,74,Ghansoli To Dombivli (DOWN),3
+KDMT_5920,KDMT,76,Dombivali Station To Pagdyacha Pada (DOWN),3
+KDMT_5921,KDMT,76,Pagdyacha Pada To Dombivali Station (UP),3
+KDMT_5947,KDMT,82,Dombivali Station to Thane(Majiwada) (UP),3
+KDMT_5948,KDMT,82,Majiwada (Thane) To Dombivali Station (DOWN),3
+KDMT_5898,KDMT,85,Dombivli To Runwal Garden (UP),3
+KDMT_5899,KDMT,85,Runwal Garden To Dombivli (DOWN),3
+KDMT_5900,KDMT,85,Depot To Runwal Garden (UP),3
+KDMT_5903,KDMT,85,Runwal Garden To Depot (DOWN),3
+KDMT_5955,KDMT,86,Dombivali Station To D Mart (UP),3
+KDMT_5956,KDMT,86,D Mart To Dombivali Station (DOWN),3
+KDMT_5448,KDMT,01A,Depot To Kalyan station (DOWN),3
+KDMT_5449,KDMT,02A,Kalyan Station To depot (UP),3
+KDMT_5918,KDMT,04A,Ganesh Ghat depot To Dombivali Station Vai 90 feet road (UP),3
+KDMT_5919,KDMT,04A,Dombivali Station To Ganesh Ghat Depot Vai 90 feet Road (DOWN),3
+KDMT_5922,KDMT,04A,Kalyan Station To Dombivali Station Vai 90 feet Road (UP),3
+KDMT_5923,KDMT,04A,Dombivali Station To Kalyan Station vai 90 feet road (DOWN),3
+KDMT_5924,KDMT,04A,Dombivali Station To Balaji Angan (UP),3
+KDMT_5925,KDMT,04A,Balaji Angan To Dombivali Station (DOWN),3
+KDMT_5928,KDMT,04B,Dombivli Station To Khambalpada ( BSUP Vasahat ) (UP),3
+KDMT_5929,KDMT,04B,Khambalpada ( BSUP Vasahat ) To Dombivli Station (DOWN),3
+KDMT_5938,KDMT,07A,Durgadi chowk to Mohana Coloni Vai Birla Collage (UP),3
+KDMT_5939,KDMT,07A,Mohana Colony To Durgadi CHowk Vai Birla Collage (DOWN),3
+KDMT_5940,KDMT,07A,Durgadi chowk to Kalyan Vai Birla Collage (DOWN),3
+KDMT_5941,KDMT,07A,Durgadi chowk to Ganesh Ghat Depot Vai Birla Collage (DOWN),3
+KDMT_5942,KDMT,07A,Ganesh Ghat Depot to Durgadi chowkVai Birla Collage (UP),3
+KDMT_5893,KDMT,09A,Kalyan Station To Barave Agar Via Sai Chowk (UP),3
+KDMT_5894,KDMT,09A,Barave Agar to Kalyan Station Via Sai Chowk (DOWN),3
+KDMT_5895,KDMT,09A,Barave Agar To Depot (DOWN),3
+KDMT_5897,KDMT,09A,Depot To Barave Agar (UP),3
+KDMT_5887,KDMT,16A,Kalyan To Sai Satyam / Rounak City (UP),3
+KDMT_5888,KDMT,16A,Sai Satyam  / Rounak Ciity To Kalyan (DOWN),3
+KDMT_5889,KDMT,16A,Depot To Sai Satyam / Rounak City (UP),3
+KDMT_5890,KDMT,16A,Sai Satyam  / Rounak City To Depot (DOWN),3
+KDMT_5551,KDMT,35A,Kalyan station to Asmeeta (UP),3
+KDMT_5552,KDMT,35A,Asmeeta To Kalyan station (DOWN),3
+KDMT_5591,KDMT,108A,Vasant valley To Kalyan Station (DOWN),3
+KDMT_5592,KDMT,108A,Kalyan Station To Vasant Valley (UP),3
+KDMT_5772,KDMT,108A,Depot to Vasant Valley (UP),3
+KDMT_5773,KDMT,108A,Vasant Valley to Depot (UP),3
+KDMT_5532,KDMT,35AC,Kalyan Station To Chh. Shivaji Maharaj Chowk (UP),3
+KDMT_5533,KDMT,35AC,Chh. Shivaji Maharaj Chowk To Kalyan Station (DOWN),3
+TMT_1_0,TMT,1,Vrindavan Society to Thane Station Satis (West) (DOWN),3
+TMT_1AC_1,TMT,1AC,Thane Station Satis (West) to Vrindavan Society (UP),3
+TMT_1AC_0,TMT,1AC,Vrindavan Society to Thane Station Satis (West) (DOWN),3
+TMT_2_1,TMT,2,Rabodi Chowk to Thane Station Satis (West) (UP),3
+TMT_1_1,TMT,1,Thane Station Satis (West) to Vrindavan Society (UP),3
+TMT_2AC_1,TMT,2AC,Rabodi Chowk to Thane Station Satis (West) (UP),3
+TMT_3_0,TMT,3,Thane Station Satis (West) to Lokmanya Nagar (DOWN),3
+TMT_3_1,TMT,3,Lokmanya Nagar to Thane Station Satis (West) (UP),3
+TMT_2AC_0,TMT,2AC,Thane Station Satis (West) to Rabodi Chowk (DOWN),3
+TMT_2_0,TMT,2,Thane Station Satis (West) to Rabodi Chowk (DOWN),3
+TMT_3AC_0,TMT,3AC,Thane Station Satis (West) to Lokmanya Nagar (DOWN),3
+TMT_4_0,TMT,4,Singhania High School (Raymond TenX Habitat) to Thane Station Satis (West) (DOWN),3
+TMT_3AC_1,TMT,3AC,Lokmanya Nagar to Thane Station Satis (West) (UP),3
+TMT_4AC_0,TMT,4AC,Singhania High School (Raymond TenX Habitat) to Thane Station Satis (West) (DOWN),3
+TMT_4AC_1,TMT,4AC,Thane Station Satis (West) to Singhania High School (Raymond TenX Habitat) (UP),3
+TMT_4_1,TMT,4,Thane Station Satis (West) to Singhania High School (Raymond TenX Habitat) (UP),3
+TMT_6_1,TMT,6,Thane Station Satis (West) to Wagle Agar (UP),3
+TMT_6_0,TMT,6,Wagle Agar to Thane Station Satis (West) (DOWN),3
+TMT_6AC_1,TMT,6AC,Thane Station Satis (West) to Wagle Agar (UP),3
+TMT_6AC_0,TMT,6AC,Wagle Agar to Thane Station Satis (West) (DOWN),3
+TMT_7_1,TMT,7,Thane Station Satis (West) to Siddhanchal Club House (UP),3
+TMT_7_0,TMT,7,Siddhanchal Club House to Thane Station Satis (West) (DOWN),3
+TMT_7AC_1,TMT,7AC,Thane Station Satis (West) to Siddhanchal Club House (UP),3
+TMT_8_0,TMT,8,Thane Station Satis (West) to Shastri Nagar (DOWN),3
+TMT_8_1,TMT,8,Shastri Nagar to Thane Station Satis (West) (UP),3
+TMT_7AC_0,TMT,7AC,Siddhanchal Club House to Thane Station Satis (West) (DOWN),3
+TMT_8AC_0,TMT,8AC,Thane Station Satis (West) to Shastri Nagar (DOWN),3
+TMT_8AC_1,TMT,8AC,Shastri Nagar to Thane Station Satis (West) (UP),3
+TMT_9AC_0,TMT,9AC,Thane Station Satis (West) to Shivai Nagar (DOWN),3
+TMT_9_1,TMT,9,Shivai Nagar to Thane Station Satis (West) (UP),3
+TMT_9_0,TMT,9,Thane Station Satis (West) to Shivai Nagar (DOWN),3
+TMT_9AC_1,TMT,9AC,Shivai Nagar to Thane Station Satis (West) (UP),3
+TMT_10_1,TMT,10,Thane Station Satis (West) to Gavand Baug (Upavan) (UP),3
+TMT_10AC_0,TMT,10AC,Gavand Baug (Upavan) to Thane Station Satis (West) (DOWN),3
+TMT_10_0,TMT,10,Gavand Baug (Upavan) to Thane Station Satis (West) (DOWN),3
+TMT_10AC_1,TMT,10AC,Thane Station Satis (West) to Gavand Baug (Upavan) (UP),3
+TMT_11_1,TMT,11,Thane Station Satis (West) to Gavandbaug (UP),3
+TMT_11AC_1,TMT,11AC,Thane Station Satis (West) to Gavandbaug (UP),3
+TMT_12_0,TMT,12,Thane Station Satis (West) to Pawar Nagar (DOWN),3
+TMT_11_0,TMT,11,Gavandbaug to Thane Station Satis (West) (DOWN),3
+TMT_12AC_1,TMT,12AC,Pawar Nagar to Thane Station Satis (West) (UP),3
+TMT_12_1,TMT,12,Pawar Nagar to Thane Station Satis (West) (UP),3
+TMT_12AC_0,TMT,12AC,Thane Station Satis (West) to Pawar Nagar (DOWN),3
+TMT_11AC_0,TMT,11AC,Gavandbaug to Thane Station Satis (West) (DOWN),3
+TMT_14_0,TMT,14,Thane Station Satis (West) to Bhim Nagar (DOWN),3
+TMT_14_1,TMT,14,Bhim Nagar to Thane Station Satis (West) (UP),3
+TMT_14AC_1,TMT,14AC,Bhim Nagar to Thane Station Satis (West) (UP),3
+TMT_14AC_0,TMT,14AC,Thane Station Satis (West) to Bhim Nagar (DOWN),3
+TMT_16_1,TMT,16,Yeoor Patonapada to Thane Station Satis (West) (UP),3
+TMT_16AC_1,TMT,16AC,Yeoor Patonapada to Thane Station Satis (West) (UP),3
+TMT_16AC_0,TMT,16AC,Thane Station Satis (West) to Yeoor Patonapada (DOWN),3
+TMT_16_0,TMT,16,Thane Station Satis (West) to Yeoor Patonapada (DOWN),3
+TMT_18_1,TMT,18,Thane East Kopri to Thane East Kopri (UP),3
+TMT_20_1,TMT,20,Kajuwadi to Thane Station Satis (West) (UP),3
+TMT_18AC_1,TMT,18AC,Thane East Kopri to Thane East Kopri (UP),3
+TMT_20_0,TMT,20,Thane Station Satis (West) to Kajuwadi (DOWN),3
+TMT_20AC_1,TMT,20AC,Kajuwadi to Thane Station Satis (West) (UP),3
+TMT_20AC_0,TMT,20AC,Thane Station Satis (West) to Kajuwadi (DOWN),3
+TMT_22_0,TMT,22,Thane Station Satis (West) to Neptune Element (DOWN),3
+TMT_22_1,TMT,22,Neptune Element to Thane Station Satis (West) (UP),3
+TMT_22AC_0,TMT,22AC,Thane Station Satis (West) to Neptune Element (DOWN),3
+TMT_22AC_1,TMT,22AC,Neptune Element to Thane Station Satis (West) (UP),3
+TMT_23AC_0,TMT,23AC,Vrindavan Society to Lokmanya Nagar (DOWN),3
+TMT_23_0,TMT,23,Vrindavan Society to Lokmanya Nagar (DOWN),3
+TMT_23AC_1,TMT,23AC,Lokmanya Nagar to Vrindavan Society (UP),3
+TMT_23_1,TMT,23,Lokmanya Nagar to Vrindavan Society (UP),3
+TMT_27_0,TMT,27,Thane Station Satis (West) to Majiwada Goan (DOWN),3
+TMT_27_1,TMT,27,Majiwada Goan to Thane Station Satis (West) (UP),3
+TMT_27AC_0,TMT,27AC,Thane Station Satis (West) to Majiwada Goan (DOWN),3
+TMT_34_0,TMT,34,Thane Station Satis (West) to Gavand Baug (Upavan) (DOWN),3
+TMT_27AC_1,TMT,27AC,Majiwada Goan to Thane Station Satis (West) (UP),3
+TMT_34AC_0,TMT,34AC,Thane Station Satis (West) to Gavand Baug (Upavan) (DOWN),3
+TMT_34_1,TMT,34,Gavand Baug (Upavan) to Thane Station Satis (West) (UP),3
+TMT_37_1,TMT,37,Laxmi Park to Thane Station Satis (West) (UP),3
+TMT_34AC_1,TMT,34AC,Gavand Baug (Upavan) to Thane Station Satis (West) (UP),3
+TMT_37_0,TMT,37,Thane Station Satis (West) to Laxmi Park (DOWN),3
+TMT_37AC_0,TMT,37AC,Thane Station Satis (West) to Laxmi Park (DOWN),3
+TMT_37AC_1,TMT,37AC,Laxmi Park to Thane Station Satis (West) (UP),3
+TMT_38_0,TMT,38,Thane Station Satis (West) to Sahyadri Society (DOWN),3
+TMT_38AC_1,TMT,38AC,Sahyadri Society to Thane Station Satis (West) (UP),3
+TMT_39_1,TMT,39,Thane Station Satis (West) to Retibunder Circle (UP),3
+TMT_39_0,TMT,39,Retibunder Circle to Thane Station Satis (West) (DOWN),3
+TMT_38_1,TMT,38,Sahyadri Society to Thane Station Satis (West) (UP),3
+TMT_38AC_0,TMT,38AC,Thane Station Satis (West) to Sahyadri Society (DOWN),3
+TMT_39AC_0,TMT,39AC,Retibunder Circle to Thane Station Satis (West) (DOWN),3
+TMT_40_0,TMT,40,Kharegaon to Thane Station Satis (West) (DOWN),3
+TMT_40AC_1,TMT,40AC,Thane Station Satis (West) to Kharegaon (UP),3
+TMT_40_1,TMT,40,Thane Station Satis (West) to Kharegaon (UP),3
+TMT_39AC_1,TMT,39AC,Thane Station Satis (West) to Retibunder Circle (UP),3
+TMT_41_1,TMT,41,Aayappa Mandir to Thane Station Satis (West) (UP),3
+TMT_40AC_0,TMT,40AC,Kharegaon to Thane Station Satis (West) (DOWN),3
+TMT_41_0,TMT,41,Thane Station Satis (West) to Aayappa Mandir (DOWN),3
+TMT_41AC_0,TMT,41AC,Thane Station Satis (West) to Aayappa Mandir (DOWN),3
+TMT_42_1,TMT,42,Thane Station Satis (West) to Nature Glory Society (UP),3
+TMT_42AC_1,TMT,42AC,Thane Station Satis (West) to Nature Glory Society (UP),3
+TMT_41AC_1,TMT,41AC,Aayappa Mandir to Thane Station Satis (West) (UP),3
+TMT_42_0,TMT,42,Nature Glory Society to Thane Station Satis (West) (DOWN),3
+TMT_42AC_0,TMT,42AC,Nature Glory Society to Thane Station Satis (West) (DOWN),3
+TMT_43_1,TMT,43,Kharegaon to Kisan Nagar (UP),3
+TMT_43_0,TMT,43,Kisan Nagar to Kharegaon (DOWN),3
+TMT_43AC_1,TMT,43AC,Kharegaon to Kisan Nagar (UP),3
+TMT_43AC_0,TMT,43AC,Kisan Nagar to Kharegaon (DOWN),3
+TMT_45_1,TMT,45,Thane Station Satis (West) to Highland Heavan (Balkum) (UP),3
+TMT_45AC_0,TMT,45AC,Highland Heavan (Balkum) to Thane Station Satis (West) (DOWN),3
+TMT_45_0,TMT,45,Highland Heavan (Balkum) to Thane Station Satis (West) (DOWN),3
+TMT_46_1,TMT,46,Chendani Koliwada to Purna (UP),3
+TMT_46_0,TMT,46,Purna to Chendani Koliwada (DOWN),3
+TMT_45AC_1,TMT,45AC,Thane Station Satis (West) to Highland Heavan (Balkum) (UP),3
+TMT_46AC_0,TMT,46AC,Purna to Chendani Koliwada (DOWN),3
+TMT_47AC_0,TMT,47AC,Ganesh Darshan Apartment (Retibandar Kalher) to Chendani Koliwada (DOWN),3
+TMT_47_1,TMT,47,Chendani Koliwada to Ganesh Darshan Apartment (Retibandar Kalher) (UP),3
+TMT_46AC_1,TMT,46AC,Chendani Koliwada to Purna (UP),3
+TMT_47_0,TMT,47,Ganesh Darshan Apartment (Retibandar Kalher) to Chendani Koliwada (DOWN),3
+TMT_48_1,TMT,48,Mahalaxmi Mandir(Saket) to Chendani Koliwada (UP),3
+TMT_47AC_1,TMT,47AC,Chendani Koliwada to Ganesh Darshan Apartment (Retibandar Kalher) (UP),3
+TMT_48AC_0,TMT,48AC,Chendani Koliwada to Mahalaxmi Mandir(Saket) (DOWN),3
+TMT_48_0,TMT,48,Chendani Koliwada to Mahalaxmi Mandir(Saket) (DOWN),3
+TMT_48AC_1,TMT,48AC,Mahalaxmi Mandir(Saket) to Chendani Koliwada (UP),3
+TMT_49_1,TMT,49,Bluebell Society to Thane Station Satis (West) (UP),3
+TMT_49_0,TMT,49,Thane Station Satis (West) to Bluebell Society (DOWN),3
+TMT_49AC_1,TMT,49AC,Bluebell Society to Thane Station Satis (West) (UP),3
+TMT_49AC_0,TMT,49AC,Thane Station Satis (West) to Bluebell Society (DOWN),3
+TMT_50_1,TMT,50,Manpada to Thane Station Satis (West) (UP),3
+TMT_50AC_0,TMT,50AC,Thane Station Satis (West) to Manpada (DOWN),3
+TMT_50_0,TMT,50,Thane Station Satis (West) to Manpada (DOWN),3
+TMT_51_0,TMT,51,Waghbil Gaon to Thane Station Satis (West) (DOWN),3
+TMT_51_1,TMT,51,Thane Station Satis (West) to Waghbil Gaon (UP),3
+TMT_50AC_1,TMT,50AC,Manpada to Thane Station Satis (West) (UP),3
+TMT_52_1,TMT,52,Bhoomi Acres to Thane Station Satis (West) (UP),3
+TMT_52AC_0,TMT,52AC,Thane Station Satis (West) to Bhoomi Acres (DOWN),3
+TMT_51AC_0,TMT,51AC,Waghbil Gaon to Thane Station Satis (West) (DOWN),3
+TMT_51AC_1,TMT,51AC,Thane Station Satis (West) to Waghbil Gaon (UP),3
+TMT_52_0,TMT,52,Thane Station Satis (West) to Bhoomi Acres (DOWN),3
+TMT_52AC_1,TMT,52AC,Bhoomi Acres to Thane Station Satis (West) (UP),3
+TMT_53_1,TMT,53,Thane Station Satis (West) to Nagla bunder (UP),3
+TMT_53_0,TMT,53,Nagla bunder to Thane Station Satis (West) (DOWN),3
+TMT_53AC_0,TMT,53AC,Nagla bunder to Thane Station Satis (West) (DOWN),3
+TMT_53AC_1,TMT,53AC,Thane Station Satis (West) to Nagla bunder (UP),3
+TMT_54_0,TMT,54,Thane Station Satis (West) to Kasarvadavali (Tarangan Sankul) (DOWN),3
+TMT_54_1,TMT,54,Kasarvadavali (Tarangan Sankul) to Thane Station Satis (West) (UP),3
+TMT_54AC_0,TMT,54AC,Thane Station Satis (West) to Kasarvadavali (Tarangan Sankul) (DOWN),3
+TMT_56AC_0,TMT,56AC,Thane Station Satis (West) to Kokanipada/Tikujini wadi (DOWN),3
+TMT_56_0,TMT,56,Thane Station Satis (West) to Kokanipada/Tikujini wadi (DOWN),3
+TMT_54AC_1,TMT,54AC,Kasarvadavali (Tarangan Sankul) to Thane Station Satis (West) (UP),3
+TMT_56_1,TMT,56,Kokanipada/Tikujini wadi to Thane Station Satis (West) (UP),3
+TMT_56AC_1,TMT,56AC,Kokanipada/Tikujini wadi to Thane Station Satis (West) (UP),3
+TMT_57AC_1,TMT,57AC,Thane East Kopri to Mira Road Station (UP),3
+TMT_57_0,TMT,57,Mira Road Station to Thane East Kopri (DOWN),3
+TMT_57AC_0,TMT,57AC,Mira Road Station to Thane East Kopri (DOWN),3
+TMT_57_1,TMT,57,Thane East Kopri to Mira Road Station (UP),3
+TMT_58_1,TMT,58,Thane Station Satis (West) to Mira Road Station (UP),3
+TMT_58_0,TMT,58,Mira Road Station to Thane Station Satis (West) (DOWN),3
+TMT_58AC_1,TMT,58AC,Thane Station Satis (West) to Mira Road Station (UP),3
+TMT_58AC_0,TMT,58AC,Mira Road Station to Thane Station Satis (West) (DOWN),3
+TMT_59_0,TMT,59,Thane Station Satis (West) to Hyde Park (DOWN),3
+TMT_59AC_1,TMT,59AC,Hyde Park to Thane Station Satis (West) (UP),3
+TMT_59_1,TMT,59,Hyde Park to Thane Station Satis (West) (UP),3
+TMT_60_1,TMT,60,Thane Station Satis (West) to Borivali East (UP),3
+TMT_59AC_0,TMT,59AC,Thane Station Satis (West) to Hyde Park (DOWN),3
+TMT_60_0,TMT,60,Borivali East to Thane Station Satis (West) (DOWN),3
+TMT_60AC_1,TMT,60AC,Thane Station Satis (West) to Borivali East (UP),3
+TMT_60AC_0,TMT,60AC,Borivali East to Thane Station Satis (West) (DOWN),3
+TMT_61AC_0,TMT,61AC,Thane Station Satis (West) to Borivade Goan (Havre City) (DOWN),3
+TMT_61_1,TMT,61,Borivade Goan (Havre City) to Thane Station Satis (West) (UP),3
+TMT_61_0,TMT,61,Thane Station Satis (West) to Borivade Goan (Havre City) (DOWN),3
+TMT_61AC_1,TMT,61AC,Borivade Goan (Havre City) to Thane Station Satis (West) (UP),3
+TMT_62_0,TMT,62,Dharmachapada/Brahmand Society to Thane Station Satis (West) (DOWN),3
+TMT_62AC_1,TMT,62AC,Thane Station Satis (West) to Dharmachapada/Brahmand Society (UP),3
+TMT_62AC_0,TMT,62AC,Dharmachapada/Brahmand Society to Thane Station Satis (West) (DOWN),3
+TMT_63_0,TMT,63,Thane Station Satis (West) to Anand Nagar Agar (DOWN),3
+TMT_62_1,TMT,62,Thane Station Satis (West) to Dharmachapada/Brahmand Society (UP),3
+TMT_63AC_0,TMT,63AC,Thane Station Satis (West) to Anand Nagar Agar (DOWN),3
+TMT_63AC_1,TMT,63AC,Anand Nagar Agar to Thane Station Satis (West) (UP),3
+TMT_63_1,TMT,63,Anand Nagar Agar to Thane Station Satis (West) (UP),3
+TMT_64_0,TMT,64,Thane Station Satis (West) to Anand Nagar Agar (DOWN),3
+TMT_64_1,TMT,64,Anand Nagar Agar to Thane Station Satis (West) (UP),3
+TMT_64AC_1,TMT,64AC,Anand Nagar Agar to Thane Station Satis (West) (UP),3
+TMT_64AC_0,TMT,64AC,Thane Station Satis (West) to Anand Nagar Agar (DOWN),3
+TMT_65_0,TMT,65,Borivali East to Thane East Kopri (DOWN),3
+TMT_65_1,TMT,65,Thane East Kopri to Borivali East (UP),3
+TMT_66_1,TMT,66,Wagle Circle to Nagla bunder (UP),3
+TMT_65AC_0,TMT,65AC,Borivali East to Thane East Kopri (DOWN),3
+TMT_66AC_1,TMT,66AC,Wagle Circle to Nagla bunder (UP),3
+TMT_65AC_1,TMT,65AC,Thane East Kopri to Borivali East (UP),3
+TMT_66_0,TMT,66,Nagla bunder to Wagle Circle (DOWN),3
+TMT_66AC_0,TMT,66AC,Nagla bunder to Wagle Circle (DOWN),3
+TMT_67_0,TMT,67,Thane Station Satis (West) to Kokanipada/Tikujini wadi (DOWN),3
+TMT_67_1,TMT,67,Kokanipada/Tikujini wadi to Thane Station Satis (West) (UP),3
+TMT_67AC_1,TMT,67AC,Kokanipada/Tikujini wadi to Thane Station Satis (West) (UP),3
+TMT_67AC_0,TMT,67AC,Thane Station Satis (West) to Kokanipada/Tikujini wadi (DOWN),3
+TMT_68_0,TMT,68,Central Park (Nalasopara) to Thane Station Satis (West) (DOWN),3
+TMT_68AC_0,TMT,68AC,Central Park (Nalasopara) to Thane Station Satis (West) (DOWN),3
+TMT_68_1,TMT,68,Thane Station Satis (West) to Central Park (Nalasopara) (UP),3
+TMT_69AC_0,TMT,69AC,Central Park (Nalasopara) to Thane East Kopri (DOWN),3
+TMT_68AC_1,TMT,68AC,Thane Station Satis (West) to Central Park (Nalasopara) (UP),3
+TMT_69_1,TMT,69,Thane East Kopri to Central Park (Nalasopara) (UP),3
+TMT_69_0,TMT,69,Central Park (Nalasopara) to Thane East Kopri (DOWN),3
+TMT_70_0,TMT,70,Khidakali to Chendani Koliwada (DOWN),3
+TMT_69AC_1,TMT,69AC,Thane East Kopri to Central Park (Nalasopara) (UP),3
+TMT_70_1,TMT,70,Chendani Koliwada to Khidakali (UP),3
+TMT_70AC_1,TMT,70AC,Chendani Koliwada to Khidakali (UP),3
+TMT_70AC_0,TMT,70AC,Khidakali to Chendani Koliwada (DOWN),3
+TMT_73_1,TMT,73,BSUP Vasahat to Diva Railway Station East (UP),3
+TMT_73_0,TMT,73,Diva Railway Station East to BSUP Vasahat (DOWN),3
+TMT_73AC_0,TMT,73AC,Diva Railway Station East to BSUP Vasahat (DOWN),3
+TMT_73AC_1,TMT,73AC,BSUP Vasahat to Diva Railway Station East (UP),3
+TMT_74_1,TMT,74,Diva Railway Station East to Chendani Koliwada (UP),3
+TMT_74_0,TMT,74,Chendani Koliwada to Diva Railway Station East (DOWN),3
+TMT_75_0,TMT,75,Mira Road Station to Bharat Gears (DOWN),3
+TMT_75_1,TMT,75,Bharat Gears to Mira Road Station (UP),3
+TMT_74AC_1,TMT,74AC,Diva Railway Station East to Chendani Koliwada (UP),3
+TMT_74AC_0,TMT,74AC,Chendani Koliwada to Diva Railway Station East (DOWN),3
+TMT_75AC_0,TMT,75AC,Mira Road Station to Bharat Gears (DOWN),3
+TMT_75AC_1,TMT,75AC,Bharat Gears to Mira Road Station (UP),3
+TMT_76_1,TMT,76,Retibunder Circle to Shilphata (UP),3
+TMT_76AC_0,TMT,76AC,Shilphata to Retibunder Circle (DOWN),3
+TMT_76AC_1,TMT,76AC,Retibunder Circle to Shilphata (UP),3
+TMT_76_0,TMT,76,Shilphata to Retibunder Circle (DOWN),3
+TMT_78_1,TMT,78,Wagle Agar to Bharat Gears (UP),3
+TMT_78_0,TMT,78,Bharat Gears to Wagle Agar (DOWN),3
+TMT_78AC_0,TMT,78AC,Bharat Gears to Wagle Agar (DOWN),3
+TMT_78AC_1,TMT,78AC,Wagle Agar to Bharat Gears (UP),3
+TMT_79_1,TMT,79,Kharegaon to Neptune Element (UP),3
+TMT_79_0,TMT,79,Neptune Element to Kharegaon (DOWN),3
+TMT_79AC_0,TMT,79AC,Neptune Element to Kharegaon (DOWN),3
+TMT_80_0,TMT,80,Thane Station Satis (West) to Manorama Nagar (DOWN),3
+TMT_79AC_1,TMT,79AC,Kharegaon to Neptune Element (UP),3
+TMT_80_1,TMT,80,Manorama Nagar to Thane Station Satis (West) (UP),3
+TMT_80AC_1,TMT,80AC,Manorama Nagar to Thane Station Satis (West) (UP),3
+TMT_82_0,TMT,82,Gholai Nagar to Kalwa Station (East) (DOWN),3
+TMT_82_1,TMT,82,Kalwa Station (East) to Gholai Nagar (UP),3
+TMT_82AC_1,TMT,82AC,Kalwa Station (East) to Gholai Nagar (UP),3
+TMT_80AC_0,TMT,80AC,Thane Station Satis (West) to Manorama Nagar (DOWN),3
+TMT_83_0,TMT,83,N. G. Regency (Balkum ) to Thane Station Satis (West) (DOWN),3
+TMT_83AC_1,TMT,83AC,Thane Station Satis (West) to N. G. Regency (Balkum ) (UP),3
+TMT_82AC_0,TMT,82AC,Gholai Nagar to Kalwa Station (East) (DOWN),3
+TMT_83_1,TMT,83,Thane Station Satis (West) to N. G. Regency (Balkum ) (UP),3
+TMT_84_1,TMT,84,Chattrapati Shivaji Maharaj Chowk (Bhiwandi) to Bharat Gears (UP),3
+TMT_83AC_0,TMT,83AC,N. G. Regency (Balkum ) to Thane Station Satis (West) (DOWN),3
+TMT_84_0,TMT,84,Bharat Gears to Chattrapati Shivaji Maharaj Chowk (Bhiwandi) (DOWN),3
+TMT_84AC_0,TMT,84AC,Bharat Gears to Chattrapati Shivaji Maharaj Chowk (Bhiwandi) (DOWN),3
+TMT_84AC_1,TMT,84AC,Chattrapati Shivaji Maharaj Chowk (Bhiwandi) to Bharat Gears (UP),3
+TMT_85_0,TMT,85,Mulund Station West to Narpoli (DOWN),3
+TMT_85AC_0,TMT,85AC,Mulund Station West to Narpoli (DOWN),3
+TMT_85_1,TMT,85,Narpoli to Mulund Station West (UP),3
+TMT_86_0,TMT,86,Cadbury Company to Rajnoli / Kalyan Bypass (DOWN),3
+TMT_85AC_1,TMT,85AC,Narpoli to Mulund Station West (UP),3
+TMT_86AC_1,TMT,86AC,Rajnoli / Kalyan Bypass to Cadbury Company (UP),3
+TMT_86_1,TMT,86,Rajnoli / Kalyan Bypass to Cadbury Company (UP),3
+TMT_86AC_0,TMT,86AC,Cadbury Company to Rajnoli / Kalyan Bypass (DOWN),3
+TMT_87_1,TMT,87,Thane Station Satis (West) to Alimghar (UP),3
+TMT_87_0,TMT,87,Alimghar to Thane Station Satis (West) (DOWN),3
+TMT_87AC_1,TMT,87AC,Thane Station Satis (West) to Alimghar (UP),3
+TMT_88_0,TMT,88,Chattrapati Shivaji Maharaj Chowk (Bhiwandi) to Mulund Station West (DOWN),3
+TMT_89_1,TMT,89,Chendani Koliwada to Narpoli Police Station (UP),3
+TMT_88_1,TMT,88,Mulund Station West to Chattrapati Shivaji Maharaj Chowk (Bhiwandi) (UP),3
+TMT_87AC_0,TMT,87AC,Alimghar to Thane Station Satis (West) (DOWN),3
+TMT_89_0,TMT,89,Narpoli Police Station to Chendani Koliwada (DOWN),3
+TMT_88AC_0,TMT,88AC,Chattrapati Shivaji Maharaj Chowk (Bhiwandi) to Mulund Station West (DOWN),3
+TMT_88AC_1,TMT,88AC,Mulund Station West to Chattrapati Shivaji Maharaj Chowk (Bhiwandi) (UP),3
+TMT_89AC_0,TMT,89AC,Narpoli Police Station to Chendani Koliwada (DOWN),3
+TMT_91_0,TMT,91,Dadlani Park to Neptune Element (DOWN),3
+TMT_89AC_1,TMT,89AC,Chendani Koliwada to Narpoli Police Station (UP),3
+TMT_92_0,TMT,92,Thane Station Satis (West) to Runwal Garden City (DOWN),3
+TMT_91AC_1,TMT,91AC,Neptune Element to Dadlani Park (UP),3
+TMT_91_1,TMT,91,Neptune Element to Dadlani Park (UP),3
+TMT_91AC_0,TMT,91AC,Dadlani Park to Neptune Element (DOWN),3
+TMT_92_1,TMT,92,Runwal Garden City to Thane Station Satis (West) (UP),3
+TMT_92AC_0,TMT,92AC,Thane Station Satis (West) to Runwal Garden City (DOWN),3
+TMT_92AC_1,TMT,92AC,Runwal Garden City to Thane Station Satis (West) (UP),3
+TMT_93_0,TMT,93,Dadlani Park to Thane Station Satis (West) (DOWN),3
+TMT_93_1,TMT,93,Thane Station Satis (West) to Dadlani Park (UP),3
+TMT_93AC_1,TMT,93AC,Thane Station Satis (West) to Dadlani Park (UP),3
+TMT_94_1,TMT,94,Thane Station Satis (West) to Everest Gate No 3 (UP),3
+TMT_93AC_0,TMT,93AC,Dadlani Park to Thane Station Satis (West) (DOWN),3
+TMT_94_0,TMT,94,Everest Gate No 3 to Thane Station Satis (West) (DOWN),3
+TMT_94AC_0,TMT,94AC,Everest Gate No 3 to Thane Station Satis (West) (DOWN),3
+TMT_94AC_1,TMT,94AC,Thane Station Satis (West) to Everest Gate No 3 (UP),3
+TMT_95_0,TMT,95,Kolshet Gaon to Thane Station Satis (West) (DOWN),3
+TMT_95_1,TMT,95,Thane Station Satis (West) to Kolshet Gaon (UP),3
+TMT_95AC_0,TMT,95AC,Kolshet Gaon to Thane Station Satis (West) (DOWN),3
+TMT_95AC_1,TMT,95AC,Thane Station Satis (West) to Kolshet Gaon (UP),3
+TMT_96AC_1,TMT,96AC,Thane Station Satis (West) to Manorama Nagar (UP),3
+TMT_97_1,TMT,97,Thane Station Satis (West) to Dosti West County (Balkum) (UP),3
+TMT_96_1,TMT,96,Thane Station Satis (West) to Manorama Nagar (UP),3
+TMT_96_0,TMT,96,Manorama Nagar to Thane Station Satis (West) (DOWN),3
+TMT_96AC_0,TMT,96AC,Manorama Nagar to Thane Station Satis (West) (DOWN),3
+TMT_97_0,TMT,97,Dosti West County (Balkum) to Thane Station Satis (West) (DOWN),3
+TMT_97AC_0,TMT,97AC,Dosti West County (Balkum) to Thane Station Satis (West) (DOWN),3
+TMT_98_1,TMT,98,Thane Station Satis (West) to Kolshet Gaon (UP),3
+TMT_97AC_1,TMT,97AC,Thane Station Satis (West) to Dosti West County (Balkum) (UP),3
+TMT_98_0,TMT,98,Kolshet Gaon to Thane Station Satis (West) (DOWN),3
+TMT_98AC_0,TMT,98AC,Kolshet Gaon to Thane Station Satis (West) (DOWN),3
+TMT_98AC_1,TMT,98AC,Thane Station Satis (West) to Kolshet Gaon (UP),3
+TMT_99_1,TMT,99,Retibunder Circle to Neptune Element (UP),3
+TMT_99AC_1,TMT,99AC,Retibunder Circle to Neptune Element (UP),3
+TMT_99_0,TMT,99,Neptune Element to Retibunder Circle (DOWN),3
+TMT_99AC_0,TMT,99AC,Neptune Element to Retibunder Circle (DOWN),3
+TMT_102_0,TMT,102,Mulund Station West to Lokmanya Nagar (DOWN),3
+TMT_102AC_0,TMT,102AC,Mulund Station West to Lokmanya Nagar (DOWN),3
+TMT_102_1,TMT,102,Lokmanya Nagar to Mulund Station West (UP),3
+TMT_102AC_1,TMT,102AC,Lokmanya Nagar to Mulund Station West (UP),3
+TMT_103_0,TMT,103,Kisan Nagar to Mulund Station West (DOWN),3
+TMT_103AC_0,TMT,103AC,Kisan Nagar to Mulund Station West (DOWN),3
+TMT_103_1,TMT,103,Mulund Station West to Kisan Nagar (UP),3
+TMT_103AC_1,TMT,103AC,Mulund Station West to Kisan Nagar (UP),3
+TMT_104_0,TMT,104,Mulund Station West to Wagle Agar (DOWN),3
+TMT_104_1,TMT,104,Wagle Agar to Mulund Station West (UP),3
+TMT_106_1,TMT,106,Thane Station Satis (West) to Wagle Circle (UP),3
+TMT_104AC_1,TMT,104AC,Wagle Agar to Mulund Station West (UP),3
+TMT_106_0,TMT,106,Wagle Circle to Thane Station Satis (West) (DOWN),3
+TMT_108_0,TMT,108,Iskcon Temple to Thane Station Satis (West) (DOWN),3
+TMT_104AC_0,TMT,104AC,Mulund Station West to Wagle Agar (DOWN),3
+TMT_106AC_1,TMT,106AC,Thane Station Satis (West) to Wagle Circle (UP),3
+TMT_108AC_0,TMT,108AC,Iskcon Temple to Thane Station Satis (West) (DOWN),3
+TMT_108_1,TMT,108,Thane Station Satis (West) to Iskcon Temple (UP),3
+TMT_106AC_0,TMT,106AC,Wagle Circle to Thane Station Satis (West) (DOWN),3
+TMT_108AC_1,TMT,108AC,Thane Station Satis (West) to Iskcon Temple (UP),3
+TMT_109_1,TMT,109,Gavand Baug (Upavan) to Kelkar College (UP),3
+TMT_109AC_1,TMT,109AC,Gavand Baug (Upavan) to Kelkar College (UP),3
+TMT_109_0,TMT,109,Kelkar College to Gavand Baug (Upavan) (DOWN),3
+TMT_110_0,TMT,110,Pawar Nagar to Mulund Station West (DOWN),3
+TMT_109AC_0,TMT,109AC,Kelkar College to Gavand Baug (Upavan) (DOWN),3
+TMT_111_0,TMT,111,Thane East Kopri to Wagle Agar (DOWN),3
+TMT_110_1,TMT,110,Mulund Station West to Pawar Nagar (UP),3
+TMT_110AC_0,TMT,110AC,Pawar Nagar to Mulund Station West (DOWN),3
+TMT_110AC_1,TMT,110AC,Mulund Station West to Pawar Nagar (UP),3
+TMT_111_1,TMT,111,Wagle Agar to Thane East Kopri (UP),3
+TMT_111AC_0,TMT,111AC,Thane East Kopri to Wagle Agar (DOWN),3
+TMT_112_1,TMT,112,Thane Station Satis (West) to Lodha Iris (UP),3
+TMT_111AC_1,TMT,111AC,Wagle Agar to Thane East Kopri (UP),3
+TMT_112_0,TMT,112,Lodha Iris to Thane Station Satis (West) (DOWN),3
+TMT_112AC_0,TMT,112AC,Lodha Iris to Thane Station Satis (West) (DOWN),3
+TMT_113_1,TMT,113,Chendani Koliwada to Lodha Crown (UP),3
+TMT_112AC_1,TMT,112AC,Thane Station Satis (West) to Lodha Iris (UP),3
+TMT_113_0,TMT,113,Lodha Crown to Chendani Koliwada (DOWN),3
+TMT_113AC_0,TMT,113AC,Lodha Crown to Chendani Koliwada (DOWN),3
+TMT_113AC_1,TMT,113AC,Chendani Koliwada to Lodha Crown (UP),3
+TMT_115_0,TMT,115,Mulund Station West to Laxmi Park (DOWN),3
+TMT_115AC_1,TMT,115AC,Laxmi Park to Mulund Station West (UP),3
+TMT_115_1,TMT,115,Laxmi Park to Mulund Station West (UP),3
+TMT_115AC_0,TMT,115AC,Mulund Station West to Laxmi Park (DOWN),3
+TMT_118_0,TMT,118,Mental Hospital to Thane Station Satis (West) (DOWN),3
+TMT_118AC_1,TMT,118AC,Thane Station Satis (West) to Mental Hospital (UP),3
+TMT_118_1,TMT,118,Thane Station Satis (West) to Mental Hospital (UP),3
+TMT_118AC_0,TMT,118AC,Mental Hospital to Thane Station Satis (West) (DOWN),3
+TMT_120_0,TMT,120,Kelkar College to Vrindavan Society (DOWN),3
+TMT_120AC_0,TMT,120AC,Kelkar College to Vrindavan Society (DOWN),3
+TMT_121_0,TMT,121,Kelkar College to Dharmachapada/Brahmand Society (DOWN),3
+TMT_120AC_1,TMT,120AC,Vrindavan Society to Kelkar College (UP),3
+TMT_120_1,TMT,120,Vrindavan Society to Kelkar College (UP),3
+TMT_121AC_1,TMT,121AC,Dharmachapada/Brahmand Society to Kelkar College (UP),3
+TMT_121AC_0,TMT,121AC,Kelkar College to Dharmachapada/Brahmand Society (DOWN),3
+TMT_121_1,TMT,121,Dharmachapada/Brahmand Society to Kelkar College (UP),3
+TMT_122AC_0,TMT,122AC,Mulund Station West to Bramhand (DOWN),3
+TMT_122_1,TMT,122,Bramhand to Mulund Station West (UP),3
+TMT_122_0,TMT,122,Mulund Station West to Bramhand (DOWN),3
+TMT_122AC_1,TMT,122AC,Bramhand to Mulund Station West (UP),3
+TMT_123_1,TMT,123,Mulund Station West to Bramhand (UP),3
+TMT_123_0,TMT,123,Bramhand to Mulund Station West (DOWN),3
+TMT_123AC_1,TMT,123AC,Mulund Station West to Bramhand (UP),3
+TMT_123AC_0,TMT,123AC,Bramhand to Mulund Station West (DOWN),3
+TMT_126_1,TMT,126,Reserve Bank India (BKC) to Hiranandani Estate / Gold Craft (UP),3
+TMT_126_0,TMT,126,Hiranandani Estate / Gold Craft to Reserve Bank India (BKC) (DOWN),3
+TMT_126AC_0,TMT,126AC,Hiranandani Estate / Gold Craft to Reserve Bank India (BKC) (DOWN),3
+TMT_126AC_1,TMT,126AC,Reserve Bank India (BKC) to Hiranandani Estate / Gold Craft (UP),3
+TMT_140AC_0,TMT,140AC,Dombivali Railway Station East to Diva Railway Station East (DOWN),3
+TMT_140_1,TMT,140,Diva Railway Station East to Dombivali Railway Station East (UP),3
+TMT_140_0,TMT,140,Dombivali Railway Station East to Diva Railway Station East (DOWN),3
+TMT_140AC_1,TMT,140AC,Diva Railway Station East to Dombivali Railway Station East (UP),3
+TMT_141_0,TMT,141,Vashi Railway Station to Diva Railway Station East (DOWN),3
+TMT_141_1,TMT,141,Diva Railway Station East to Vashi Railway Station (UP),3
+TMT_141AC_1,TMT,141AC,Diva Railway Station East to Vashi Railway Station (UP),3
+TMT_141AC_0,TMT,141AC,Vashi Railway Station to Diva Railway Station East (DOWN),3
+TMT_142_0,TMT,142,Teen Hath Naka / Highway Darshan to Maulana Azad TMC Krida (DOWN),3
+TMT_142_1,TMT,142,Maulana Azad TMC Krida to Teen Hath Naka / Highway Darshan (UP),3
+TMT_146_1,TMT,146,Thane Station Satis (West) to Gholai Nagar (UP),3
+TMT_142AC_1,TMT,142AC,Maulana Azad TMC Krida to Teen Hath Naka / Highway Darshan (UP),3
+TMT_142AC_0,TMT,142AC,Teen Hath Naka / Highway Darshan to Maulana Azad TMC Krida (DOWN),3
+TMT_146AC_0,TMT,146AC,Gholai Nagar to Thane Station Satis (West) (DOWN),3
+TMT_146_0,TMT,146,Gholai Nagar to Thane Station Satis (West) (DOWN),3
+TMT_148_0,TMT,148,Vashi Railway Station to Parsik Nagar (DOWN),3
+TMT_146AC_1,TMT,146AC,Thane Station Satis (West) to Gholai Nagar (UP),3
+TMT_148_1,TMT,148,Parsik Nagar to Vashi Railway Station (UP),3
+TMT_148AC_1,TMT,148AC,Parsik Nagar to Vashi Railway Station (UP),3
+TMT_148AC_0,TMT,148AC,Vashi Railway Station to Parsik Nagar (DOWN),3
+TMT_150AC_1,TMT,150AC,Thane East Kopri to Thane East Kopri (UP),3
+TMT_150_1,TMT,150,Thane East Kopri to Thane East Kopri (UP),3
+TMT_151_1,TMT,151,Anand Nagar Agar to Belapur Railway Station (UP),3
+TMT_151_0,TMT,151,Belapur Railway Station to Anand Nagar Agar (DOWN),3
+TMT_151AC_0,TMT,151AC,Chendani Koliwada to Navi Mumbai Airport CTC bus Stop (DOWN),3
+TMT_152_0,TMT,152,Thane East Kopri to New Horizon School (DOWN),3
+TMT_151AC_1,TMT,151AC,Navi Mumbai Airport CTC bus Stop to Chendani Koliwada (UP),3
+TMT_152_1,TMT,152,New Horizon School to Thane East Kopri (UP),3
+TMT_152AC_0,TMT,152AC,Thane East Kopri to New Horizon School (DOWN),3
+TMT_152AC_1,TMT,152AC,New Horizon School to Thane East Kopri (UP),3
+TMT_153_1,TMT,153,Bhayandarpada to Thane Station Satis (West) (UP),3
+TMT_153AC_0,TMT,153AC,Thane Station Satis (West) to Bhayandarpada (DOWN),3
+TMT_153_0,TMT,153,Thane Station Satis (West) to Bhayandarpada (DOWN),3
+TMT_154_1,TMT,154,Anand Nagar Agar to Millennium Business Park (UP),3
+TMT_153AC_1,TMT,153AC,Bhayandarpada to Thane Station Satis (West) (UP),3
+TMT_154_0,TMT,154,Millennium Business Park to Anand Nagar Agar (DOWN),3
+TMT_154AC_0,TMT,154AC,Millennium Business Park to Anand Nagar Agar (DOWN),3
+TMT_154AC_1,TMT,154AC,Anand Nagar Agar to Millennium Business Park (UP),3
+TMT_156_0,TMT,156,Thane Station Satis (West) to Neelkanth Green Society (DOWN),3
+TMT_156AC_1,TMT,156AC,Neelkanth Green Society to Thane Station Satis (West) (UP),3
+TMT_156_1,TMT,156,Neelkanth Green Society to Thane Station Satis (West) (UP),3
+TMT_156AC_0,TMT,156AC,Thane Station Satis (West) to Neelkanth Green Society (DOWN),3
+TMT_162_1,TMT,162,Vihang Valley to Thane Station Satis (West) (UP),3
+TMT_162_0,TMT,162,Thane Station Satis (West) to Vihang Valley (DOWN),3
+TMT_162AC_0,TMT,162AC,Thane Station Satis (West) to Vihang Valley (DOWN),3
+TMT_162AC_1,TMT,162AC,Vihang Valley to Thane Station Satis (West) (UP),3
+TMT_206_0,TMT,206,Retibunder Circle to Wagle Agar (DOWN),3
+TMT_206AC_1,TMT,206AC,Wagle Agar to Retibunder Circle (UP),3
+TMT_206_1,TMT,206,Wagle Agar to Retibunder Circle (UP),3
+TMT_212_0,TMT,212,Neptune Element to Lodha Iris (DOWN),3
+TMT_212AC_0,TMT,212AC,Neptune Element to Lodha Iris (DOWN),3
+TMT_206AC_0,TMT,206AC,Retibunder Circle to Wagle Agar (DOWN),3
+TMT_239_1,TMT,239,Wagle Agar to Retibunder Circle (UP),3
+TMT_212_1,TMT,212,Lodha Iris to Neptune Element (UP),3
+TMT_212AC_1,TMT,212AC,Lodha Iris to Neptune Element (UP),3
+TMT_239_0,TMT,239,Retibunder Circle to Wagle Agar (DOWN),3
+TMT_239AC_1,TMT,239AC,Wagle Agar to Retibunder Circle (UP),3
+TMT_239AC_0,TMT,239AC,Retibunder Circle to Wagle Agar (DOWN),3
+TMT_240_1,TMT,240,Kharegaon to Lokmanya Nagar (UP),3
+TMT_240_0,TMT,240,Lokmanya Nagar to Kharegaon (DOWN),3
+TMT_240AC_0,TMT,240AC,Lokmanya Nagar to Kharegaon (DOWN),3
+TMT_303_0,TMT,303,Majiwada Goan to Lokmanya Nagar (DOWN),3
+TMT_240AC_1,TMT,240AC,Kharegaon to Lokmanya Nagar (UP),3
+TMT_303AC_1,TMT,303AC,Lokmanya Nagar to Majiwada Goan (UP),3
+TMT_306_1,TMT,306,Vrindavan Society to Wagle Agar (UP),3
+TMT_303_1,TMT,303,Lokmanya Nagar to Majiwada Goan (UP),3
+TMT_306AC_0,TMT,306AC,Wagle Agar to Vrindavan Society (DOWN),3
+TMT_306_0,TMT,306,Wagle Agar to Vrindavan Society (DOWN),3
+TMT_303AC_0,TMT,303AC,Majiwada Goan to Lokmanya Nagar (DOWN),3
+TMT_306AC_1,TMT,306AC,Vrindavan Society to Wagle Agar (UP),3
+BEST_4458,BEST,45 AS,MAHUL VILLAGE to BACKBAY DEPOT (DOWN),3
+BEST_4459,BEST,45 AS,BACKBAY DEPOT to MAHUL VILLAGE (UP),3
+BEST_4470,BEST,49 AS,MAHUL VILLAGE to MUMBAI CENTRAL DEPOT (DOWN),3
+BEST_4471,BEST,49 AS,MUMBAI CENTRAL DEPOT to MAHUL VILLAGE (UP),3
+BEST_4501,BEST,56 AS,VESAVA-YARI ROAD BUS STATION to WORLI DEPOT (DOWN),3
+BEST_4502,BEST,56 AS,WORLI DEPOT to VESAVA-YARI ROAD BUS STATION (UP),3
+BEST_4253,BEST,62 AS,VIDYA VIHAR BUS STATION (W) to PT.PALUSKAR CHOWK (DOWN),3
+BEST_4254,BEST,62 AS,PT.PALUSKAR CHOWK to VIDYA VIHAR BUS STATION (W) (UP),3
+BEST_4524,BEST,76 AS,MUKESH CHOWK (UMAR PARK; TATA GARDEN) to BYCULLA STATION (W) (DOWN),3
+BEST_4525,BEST,76 AS,BYCULLA STATION (W) to MUKESH CHOWK (UMAR PARK; TATA GARDEN) (UP),3
+BEST_4522,BEST,77 AS,MUKESH CHOWK (UMAR PARK; TATA GARDEN) to BYCULLA STATION (W) (DOWN),3
+BEST_4523,BEST,77 AS,BYCULLA STATION (W) to MUKESH CHOWK (UMAR PARK; TATA GARDEN) (UP),3
+BEST_4532,BEST,86 AS,COMRADE P.K.KURNE CHOWK (WORLI ) to BACKBAY DEPOT (DOWN),3
+BEST_4533,BEST,86 AS,BACKBAY DEPOT to COMRADE P.K.KURNE CHOWK (WORLI ) (UP),3
+BEST_4323,BEST,87 LTD,DIAMOND BOURSE (BKC) to VASANTRAO NAIK CHOWK (TARDEO) (DOWN),3
+BEST_4324,BEST,87 LTD,VASANTRAO NAIK CHOWK (TARDEO) to DIAMOND BOURSE (BKC) (UP),3
+BEST_4564,BEST,1 AS,SANTACRUZ DEPOT to CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) (DOWN),3
+BEST_4565,BEST,1 AS,CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) to SANTACRUZ DEPOT (UP),3
+BEST_3824,BEST,10 AS,PRATIKSHA NAGAR DEPOT to ELECTRIC HOUSE; COLABA DEPOT (DOWN),3
+BEST_3825,BEST,10 AS,ELECTRIC HOUSE; COLABA DEPOT to PRATIKSHA NAGAR DEPOT (UP),3
+BEST_1486,BEST,11 LTD,BANDRA COLONY BUS STATION to NAVY NAGAR (COLABA) (DOWN),3
+BEST_1487,BEST,11 LTD,NAVY NAGAR (COLABA) to BANDRA COLONY BUS STATION (UP),3
+BEST_3890,BEST,11,BANDRA COLONY BUS STATION to RANI LAXMIBAI CHOWK; SION STATION (DOWN),3
+BEST_3891,BEST,11,RANI LAXMIBAI CHOWK; SION STATION to BANDRA COLONY BUS STATION (UP),3
+BEST_1491,BEST,12 C,DAHISAR BUS STATION to SANTACRUZ DEPOT (DOWN),3
+BEST_1492,BEST,12 C,SANTACRUZ DEPOT to DAHISAR BUS STATION (UP),3
+BEST_4004,BEST,13,WADALA STATION (W) to MAHATMA GANDHI HOSPITAL (PAREL) (DOWN),3
+BEST_4005,BEST,13,MAHATMA GANDHI HOSPITAL (PAREL) to WADALA STATION (W) (UP),3
+BEST_1495,BEST,14,PRATIKSHA NAGAR DEPOT to DR. SHYAMAPRASAD MUKHERJEE CHOWK(MUSEUM)  (DOWN),3
+BEST_1496,BEST,14,DR. SHYAMAPRASAD MUKHERJEE CHOWK(MUSEUM)  to PRATIKSHA NAGAR DEPOT (UP),3
+BEST_1497,BEST,15,PRATIKSHA NAGAR DEPOT to MANTRALAYA (DOWN),3
+BEST_1498,BEST,15,MANTRALAYA to PRATIKSHA NAGAR DEPOT (UP),3
+BEST_2950,BEST,19 AS,SHIVAJI NAGAR DEPOT to MANTRALAYA (DOWN),3
+BEST_2951,BEST,19 AS,MANTRALAYA to SHIVAJI NAGAR DEPOT (UP),3
+BEST_1643,BEST,100 RING,FREE PRESS JOURNAL MARG to AHILYABAI HOLKAR CHOWK (CHURCHGATE) (DOWN),3
+BEST_21,BEST,100 RING,AHILYABAI HOLKAR CHOWK (CHURCHGATE) to FREE PRESS JOURNAL MARG (UP),3
+BEST_4576,BEST,101 AS,MAHATMA PHULE MARKET (CRAWFORD MARKET) to WORLD TRADE CENTRE (DOWN),3
+BEST_4577,BEST,101 AS,WORLD TRADE CENTRE to MAHATMA PHULE MARKET (CRAWFORD MARKET) (UP),3
+BEST_2623,BEST,102 AS,VIJAY VALLABH CHOWK (PYDHONIE) to GRANT ROAD STATION (E) (DOWN),3
+BEST_2624,BEST,102 AS,GRANT ROAD STATION (E) to VIJAY VALLABH CHOWK (PYDHONIE) (UP),3
+BEST_4554,BEST,103 AS,KAMALA NEHRU PARK (MALABAR HILL) to R.C.CHURCH (COLABA) (DOWN),3
+BEST_4555,BEST,103 AS,R.C.CHURCH (COLABA) to KAMALA NEHRU PARK (MALABAR HILL) (UP),3
+BEST_2615,BEST,104 AS,GRANT ROAD STATION (W) to J.MEHTA MARG (NAPEAN SEA ROAD) (DOWN),3
+BEST_3589,BEST,104 AS,VIJAY VALLABH CHOWK (PYDHONIE) to J.MEHTA MARG (NAPEAN SEA ROAD) (UP),3
+BEST_2616,BEST,104 AS,J.MEHTA MARG (NAPEAN SEA ROAD) to GRANT ROAD STATION (W) (UP),3
+BEST_3590,BEST,104 AS,J.MEHTA MARG (NAPEAN SEA ROAD) to VIJAY VALLABH CHOWK (PYDHONIE) (UP),3
+BEST_4018,BEST,104 AS,VIJAY VALLABH CHOWK (PYDHONIE) to J.MEHTA MARG (NAPEAN SEA ROAD) (DOWN),3
+BEST_4019,BEST,104 AS,J.MEHTA MARG (NAPEAN SEA ROAD) to VIJAY VALLABH CHOWK (PYDHONIE) (UP),3
+BEST_2617,BEST,105 AS,VIJAY VALLABH CHOWK (PYDHONIE) to KAMALA NEHRU PARK (MALABAR HILL) (DOWN),3
+BEST_2618,BEST,105 AS,KAMALA NEHRU PARK (MALABAR HILL) to VIJAY VALLABH CHOWK (PYDHONIE) (UP),3
+BEST_4020,BEST,105 AS,TARDEO BUS STATION; RUSI MEHTA CHOWK to KAMALA NEHRU PARK (MALABAR HILL) (DOWN),3
+BEST_4021,BEST,105 AS,KAMALA NEHRU PARK (MALABAR HILL) to TARDEO BUS STATION; RUSI MEHTA CHOWK (UP),3
+BEST_2544,BEST,106 AS,KAMALA NEHRU PARK (MALABAR HILL) to R.C.CHURCH (COLABA) (DOWN),3
+BEST_2545,BEST,106 AS,R.C.CHURCH (COLABA) to KAMALA NEHRU PARK (MALABAR HILL) (UP),3
+BEST_4134,BEST,108 AS,KAMALA NEHRU PARK (MALABAR HILL) to CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) (DOWN),3
+BEST_4135,BEST,108 AS,CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) to KAMALA NEHRU PARK (MALABAR HILL) (UP),3
+BEST_1658,BEST,110,SANGAM NAGAR (WADALA-E) to COMRADE P.K.KURNE CHOWK (WORLI ) (DOWN),3
+BEST_1659,BEST,110,COMRADE P.K.KURNE CHOWK (WORLI ) to SANGAM NAGAR (WADALA-E) (UP),3
+BEST_3955,BEST,111 AS,FREE PRESS JOURNAL MARG to CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) (DOWN),3
+BEST_3956,BEST,111 AS,CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) to FREE PRESS JOURNAL MARG (UP),3
+BEST_2521,BEST,112 AS,GATE WAY OF INDIA to AHILYABAI HOLKAR CHOWK (CHURCHGATE) (DOWN),3
+BEST_2522,BEST,112 AS,AHILYABAI HOLKAR CHOWK (CHURCHGATE) to GATE WAY OF INDIA (UP),3
+BEST_2852,BEST,113 AS,AHILYABAI HOLKAR CHOWK (CHURCHGATE) to MAHATMA PHULE MARKET (CRAWFORD MARKET) (DOWN),3
+BEST_2853,BEST,113 AS,MAHATMA PHULE MARKET (CRAWFORD MARKET) to AHILYABAI HOLKAR CHOWK (CHURCHGATE) (UP),3
+BEST_3848,BEST,115 AS,N.C.P.A. to CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) (DOWN),3
+BEST_3849,BEST,115 AS,CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) to N.C.P.A. (UP),3
+BEST_2922,BEST,116 AS,GATE WAY OF INDIA to CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) (DOWN),3
+BEST_2923,BEST,116 AS,CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) to GATE WAY OF INDIA (UP),3
+BEST_3314,BEST,117 RING,WADALA STATION (W) to SANGAM NAGAR (WADALA-E) (DOWN),3
+BEST_3315,BEST,117 RING,SANGAM NAGAR (WADALA-E) to WADALA STATION (W) (UP),3
+BEST_3156,BEST,118 AS,DADAR STN (W) to WORLI VILLAGE (DOWN),3
+BEST_3157,BEST,118 AS,WORLI VILLAGE to DADAR STN (W) (UP),3
+BEST_3595,BEST,119 AS,KASTURBA GANDHI CHOWK (C.P.TANK) to PT.PALUSKAR CHOWK (OPERA HOUSE) (DOWN),3
+BEST_3596,BEST,119 AS,PT.PALUSKAR CHOWK (OPERA HOUSE) to KASTURBA GANDHI CHOWK (C.P.TANK) (UP),3
+BEST_4359,BEST,120 AS,MANGALDAS MARKET to PT.PALUSKAR CHOWK (OPERA HOUSE) (DOWN),3
+BEST_4515,BEST,120 AS,PT.PALUSKAR CHOWK (OPERA HOUSE) to MANGALDAS MARKET (UP),3
+BEST_2783,BEST,121 AS,J.MEHTA MARG (NAPEAN SEA ROAD) to BACKBAY DEPOT (DOWN),3
+BEST_2784,BEST,121 AS,BACKBAY DEPOT to J.MEHTA MARG (NAPEAN SEA ROAD) (UP),3
+BEST_2469,BEST,122 AS,J.MEHTA MARG (NAPEAN SEA ROAD) to BALLARD PIER (DOWN),3
+BEST_2459,BEST,122 AS,BALLARD PIER to J.MEHTA MARG (NAPEAN SEA ROAD) (UP),3
+BEST_2850,BEST,123 AS,VASANTRAO NAIK CHOWK (TARDEO) to R.C.CHURCH (COLABA) (DOWN),3
+BEST_2851,BEST,123 AS,R.C.CHURCH (COLABA) to VASANTRAO NAIK CHOWK (TARDEO) (UP),3
+BEST_3231,BEST,124 AS,WORLI DEPOT to COLABA BUS STATION (DOWN),3
+BEST_3232,BEST,124 AS,COLABA BUS STATION to WORLI DEPOT (UP),3
+BEST_3690,BEST,125 AS,WORLI DEPOT to NAVY NAGAR (COLABA) (DOWN),3
+BEST_3691,BEST,125 AS,NAVY NAGAR (COLABA) to WORLI DEPOT (UP),3
+BEST_3638,BEST,126 AS,JIJAMATA UDYAN (BYCULLA) to MANTRALAYA (DOWN),3
+BEST_3639,BEST,126 AS,MANTRALAYA to JIJAMATA UDYAN (BYCULLA) (UP),3
+BEST_3844,BEST,132 AS,MUMBAI CENTRAL DEPOT to COLABA BUS STATION (DOWN),3
+BEST_3845,BEST,132 AS,COLABA BUS STATION to MUMBAI CENTRAL DEPOT (UP),3
+BEST_2801,BEST,134 AS,PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) to BACKBAY DEPOT (DOWN),3
+BEST_2802,BEST,134 AS,BACKBAY DEPOT to PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) (UP),3
+BEST_3021,BEST,135 AS,J.MEHTA MARG (NAPEAN SEA ROAD) to FERRY WHARF (DOWN),3
+BEST_2986,BEST,135 AS,FERRY WHARF to J.MEHTA MARG (NAPEAN SEA ROAD) (UP),3
+BEST_2785,BEST,136 AS,AHILYABAI HOLKAR CHOWK (CHURCHGATE) to BACKBAY DEPOT (DOWN),3
+BEST_2786,BEST,136 AS,BACKBAY DEPOT to AHILYABAI HOLKAR CHOWK (CHURCHGATE) (UP),3
+BEST_3951,BEST,137 AS,AHILYABAI HOLKAR CHOWK (CHURCHGATE) to NAVY NAGAR (COLABA) (DOWN),3
+BEST_3952,BEST,137 AS,NAVY NAGAR (COLABA) to AHILYABAI HOLKAR CHOWK (CHURCHGATE) (UP),3
+BEST_4505,BEST,137 AS,AHILYABAI HOLKAR CHOWK (CHURCHGATE) to NAVY NAGAR (COLABA) (DOWN),3
+BEST_4506,BEST,137 AS,NAVY NAGAR (COLABA) to AHILYABAI HOLKAR CHOWK (CHURCHGATE) (UP),3
+BEST_4087,BEST,138 AS,CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) to BACKBAY DEPOT (DOWN),3
+BEST_4283,BEST,138 AS,CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) to BACKBAY DEPOT (DOWN),3
+BEST_4088,BEST,138 AS,BACKBAY DEPOT to CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) (UP),3
+BEST_4284,BEST,138 AS,BACKBAY DEPOT to CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) (UP),3
+BEST_1693,BEST,139,CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) to GEETA NAGAR (COLABA) (DOWN),3
+BEST_1694,BEST,139,GEETA NAGAR (COLABA) to CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) (UP),3
+BEST_1695,BEST,151,WADALA BUS DEPOT to J.MEHTA MARG (NAPEAN SEA ROAD) (DOWN),3
+BEST_1696,BEST,151,J.MEHTA MARG (NAPEAN SEA ROAD) to WADALA BUS DEPOT (UP),3
+BEST_3854,BEST,153,NAIR HOSPITAL to BYCULLA STATION (W) (DOWN),3
+BEST_3855,BEST,153,BYCULLA STATION (W) to NAIR HOSPITAL (UP),3
+BEST_3836,BEST,154 AS,NEHRU PLANETARIUM (WORLI) to BYCULLA STATION (W) (DOWN),3
+BEST_3837,BEST,154 AS,BYCULLA STATION (W) to NEHRU PLANETARIUM (WORLI) (UP),3
+BEST_3788,BEST,155 AS,CUMBALA HILL POST OFFICE to GRANT ROAD STATION (W) (DOWN),3
+BEST_3789,BEST,155 AS,GRANT ROAD STATION (W) to CUMBALA HILL POST OFFICE (UP),3
+BEST_2926,BEST,162 AS,WORLI VILLAGE to PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) (DOWN),3
+BEST_2927,BEST,162 AS,PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) to WORLI VILLAGE (UP),3
+BEST_4339,BEST,162 AS,WORLI VILLAGE to PRABHADEVI STATION (W) (DOWN),3
+BEST_4340,BEST,162 AS,PRABHADEVI STATION (W) to WORLI VILLAGE (UP),3
+BEST_4024,BEST,163 AS,PAREL STATION (E) to PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) (DOWN),3
+BEST_4025,BEST,163 AS,PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) to PAREL STATION (E) (UP),3
+BEST_4509,BEST,164 AS,DHARAVI DEPOT to MAHARANA PRATAP CHOWK (MAZGAON) (DOWN),3
+BEST_4510,BEST,164 AS,MAHARANA PRATAP CHOWK (MAZGAON) to DHARAVI DEPOT (UP),3
+BEST_4062,BEST,165,WADALA BUS DEPOT to KASTURBA GANDHI CHOWK (C.P.TANK) (DOWN),3
+BEST_4063,BEST,165,KASTURBA GANDHI CHOWK (C.P.TANK) to WADALA BUS DEPOT (UP),3
+BEST_2535,BEST,167 AS,PRABHADEVI STATION (W) to COMRADE P.K.KURNE CHOWK (WORLI ) (DOWN),3
+BEST_2458,BEST,167 AS,COMRADE P.K.KURNE CHOWK (WORLI ) to PRABHADEVI STATION (W) (UP),3
+BEST_1717,BEST,168,WADALA BUS DEPOT to PAREL S.T.DEPOT; SANT ROHIDAS CHOWK (DOWN),3
+BEST_1718,BEST,168,PAREL S.T.DEPOT; SANT ROHIDAS CHOWK to WADALA BUS DEPOT (UP),3
+BEST_3996,BEST,168,LAL BAHADUR SHASTRI COLLEGE to JIJAMATA UDYAN (BYCULLA) (DOWN),3
+BEST_3997,BEST,168,JIJAMATA UDYAN (BYCULLA) to LAL BAHADUR SHASTRI COLLEGE (UP),3
+BEST_1719,BEST,169,PRATIKSHA NAGAR DEPOT to WORLI DEPOT (DOWN),3
+BEST_1720,BEST,169,WORLI DEPOT to PRATIKSHA NAGAR DEPOT (UP),3
+BEST_4466,BEST,171 AS,ANTOP HILL to WORLI DEPOT (DOWN),3
+BEST_4467,BEST,171 AS,WORLI DEPOT to ANTOP HILL (UP),3
+BEST_1723,BEST,172,PRATIKSHA NAGAR DEPOT to COMRADE P.K.KURNE CHOWK (WORLI ) (DOWN),3
+BEST_1724,BEST,172,COMRADE P.K.KURNE CHOWK (WORLI ) to PRATIKSHA NAGAR DEPOT (UP),3
+BEST_3560,BEST,174 RING,BHARANI NAKA (ANTOP HILL) to WADALA STATION (W) (DOWN),3
+BEST_3561,BEST,174 RING,WADALA STATION (W) to BHARANI NAKA (ANTOP HILL) (UP),3
+BEST_2529,BEST,174 AS,BHARANI NAKA (ANTOP HILL) to VEER HUTATMA BHAI KOTWAL UDYAN (PLAZA) (DOWN),3
+BEST_2530,BEST,174 AS,VEER HUTATMA BHAI KOTWAL UDYAN (PLAZA) to BHARANI NAKA (ANTOP HILL) (UP),3
+BEST_4239,BEST,175 AS,PRABODHANKAR THACKERAY CHOWK (DADAR-W) to PRATIKSHA NAGAR DEPOT (DOWN),3
+BEST_4240,BEST,175 AS,PRATIKSHA NAGAR DEPOT to PRABODHANKAR THACKERAY CHOWK (DADAR-W) (UP),3
+BEST_4148,BEST,176 AS,NATIONAL (HINDUJA) HOSPITAL to DHARAVI DEPOT (DOWN),3
+BEST_4149,BEST,176 AS,DHARAVI DEPOT to NATIONAL (HINDUJA) HOSPITAL (UP),3
+BEST_3934,BEST,177,HINDMATA CINEMA (PAREL) to SHRAWAN YASHWANTE CHOWK (KALA CHOWKY) (DOWN),3
+BEST_3313,BEST,177,SHRAWAN YASHWANTE CHOWK (KALA CHOWKY) to HINDMATA CINEMA (PAREL) (UP),3
+BEST_2496,BEST,180 AS,MALVANI DEPOT; GAIKWAD NAGAR to CHHATRAPATI SHIVAJI INTERNATIONAL AIRPORT (SAHAR) (DOWN),3
+BEST_2497,BEST,180 AS,CHHATRAPATI SHIVAJI INTERNATIONAL AIRPORT (SAHAR) to MALVANI DEPOT; GAIKWAD NAGAR (UP),3
+BEST_4418,BEST,181,SEEPZ BUS STATION to ANTOP HILL EXTENSION (DOWN),3
+BEST_4419,BEST,181,ANTOP HILL EXTENSION to SEEPZ BUS STATION (UP),3
+BEST_1735,BEST,182 RING,DIAMOND BOURSE (BKC) to BANDRA (E) BUS STATION (DOWN),3
+BEST_1734,BEST,182 RING,BANDRA (E) BUS STATION to DIAMOND BOURSE (BKC) (UP),3
+BEST_4261,BEST,183 AS,SWAVALAMBAN BHAVAN to KURLA STATION (W) (DOWN),3
+BEST_4262,BEST,183 AS,KURLA STATION (W) to SWAVALAMBAN BHAVAN (UP),3
+BEST_3038,BEST,185 AS,AGARKAR CHOWK (ANDHERI-E) to KANNAMWAR NAGAR NO.2 (DOWN),3
+BEST_3039,BEST,185 AS,KANNAMWAR NAGAR NO.2 to AGARKAR CHOWK (ANDHERI-E) (UP),3
+BEST_1738,BEST,186,VIHAR LAKE to AGARKAR CHOWK (ANDHERI-E) (DOWN),3
+BEST_1739,BEST,186,AGARKAR CHOWK (ANDHERI-E) to VIHAR LAKE (UP),3
+BEST_1740,BEST,187 RING,C.A.INSTITUTE (BKC) to BANDRA (E) BUS STATION (DOWN),3
+BEST_1741,BEST,187 RING,BANDRA (E) BUS STATION to C.A.INSTITUTE (BKC) (UP),3
+BEST_1456,BEST,2 LTD,BANDRA COLONY BUS STATION to ELECTRIC HOUSE; COLABA DEPOT (DOWN),3
+BEST_1457,BEST,2 LTD,ELECTRIC HOUSE; COLABA DEPOT to BANDRA COLONY BUS STATION (UP),3
+BEST_3963,BEST,21 AS,DIAMOND BOURSE (BKC) to BANDRA (E) BUS STATION (DOWN),3
+BEST_3964,BEST,21 AS,BANDRA (E) BUS STATION to DIAMOND BOURSE (BKC) (UP),3
+BEST_4582,BEST,21 AS,TROMBAY to DR. SHYAMAPRASAD MUKHERJEE CHOWK(MUSEUM)  (DOWN),3
+BEST_4583,BEST,21 AS,DR. SHYAMAPRASAD MUKHERJEE CHOWK(MUSEUM)  to TROMBAY (UP),3
+BEST_3967,BEST,22 AS,BANDRA (E) BUS STATION to KURLA STATION (W) (DOWN),3
+BEST_3968,BEST,22 AS,KURLA STATION (W) to BANDRA (E) BUS STATION (UP),3
+BEST_4580,BEST,22 AS,MAJAS DEPOT to JIJAMATA UDYAN (BYCULLA) (DOWN),3
+BEST_4581,BEST,22 AS,JIJAMATA UDYAN (BYCULLA) to MAJAS DEPOT (UP),3
+BEST_4077,BEST,23 RING,C.A.INSTITUTE (BKC) to BANDRA (E) BUS STATION (DOWN),3
+BEST_4078,BEST,23 RING,BANDRA (E) BUS STATION to C.A.INSTITUTE (BKC) (UP),3
+BEST_1517,BEST,23 AS,C.A.INSTITUTE (BKC) to BANDRA (E) BUS STATION (DOWN),3
+BEST_1518,BEST,23 AS,BANDRA (E) BUS STATION to C.A.INSTITUTE (BKC) (UP),3
+BEST_2779,BEST,25 AS,RANI LAXMIBAI CHOWK (SION) to BACKBAY DEPOT (DOWN),3
+BEST_2780,BEST,25 AS,BACKBAY DEPOT to RANI LAXMIBAI CHOWK (SION) (UP),3
+BEST_4315,BEST,26 AS,SHIVAJI NAGAR DEPOT to ELECTRIC HOUSE; COLABA DEPOT (DOWN),3
+BEST_4316,BEST,26 AS,ELECTRIC HOUSE; COLABA DEPOT to SHIVAJI NAGAR DEPOT (UP),3
+BEST_3566,BEST,27,VAISHALI NAGAR (MULUND-W) to RANI LAXMIBAI CHOWK (SION) (DOWN),3
+BEST_3567,BEST,27,RANI LAXMIBAI CHOWK (SION) to VAISHALI NAGAR (MULUND-W) (UP),3
+BEST_3965,BEST,28,J.V.P.D.BUS STATION to CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) (DOWN),3
+BEST_3966,BEST,28,CHHATRAPATI SHIVAJI MAHARAJ TERMINUS(CSMT) to J.V.P.D.BUS STATION (UP),3
+BEST_4213,BEST,29 LTD,VIHAR LAKE to PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) (DOWN),3
+BEST_4214,BEST,29 LTD,PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) to VIHAR LAKE (UP),3
+BEST_4600,BEST,200 AS,VESAVA-YARI ROAD BUS STATION to WADALA BUS DEPOT (DOWN),3
+BEST_4601,BEST,200 AS,WADALA BUS DEPOT to VESAVA-YARI ROAD BUS STATION (UP),3
+BEST_1746,BEST,201,SANTACRUZ DEPOT to PAREL S.T.DEPOT; SANT ROHIDAS CHOWK (DOWN),3
+BEST_1747,BEST,201,PAREL S.T.DEPOT; SANT ROHIDAS CHOWK to SANTACRUZ DEPOT (UP),3
+BEST_4066,BEST,202 LTD,BORIVALI (W) STATION to MAHIM BUS STATION (DOWN),3
+BEST_4067,BEST,202 LTD,MAHIM BUS STATION to BORIVALI (W) STATION (UP),3
+BEST_3730,BEST,202 AS,GORAI DEPOT to MAHIM BUS STATION (DOWN),3
+BEST_3731,BEST,202 AS,MAHIM BUS STATION to GORAI DEPOT (UP),3
+BEST_2500,BEST,203 AS,DAHISAR BRIDGE to JUHU BEACH (DOWN),3
+BEST_2501,BEST,203 AS,JUHU BEACH to DAHISAR BRIDGE (UP),3
+BEST_4372,BEST,204 AS,GOMANT NAGAR (DAHISAR-W) to GOREGAON (W) BUS STATION (DOWN),3
+BEST_4373,BEST,204 AS,GOREGAON (W) BUS STATION to GOMANT NAGAR (DAHISAR-W) (UP),3
+BEST_4374,BEST,205 AS,GOMANT NAGAR (DAHISAR-W) to JOGESHWARI (W) BUS STATION (DOWN),3
+BEST_4375,BEST,205 AS,JOGESHWARI (W) BUS STATION to GOMANT NAGAR (DAHISAR-W) (UP),3
+BEST_2862,BEST,206 AS,I.C.COLONY (BORIVALI -W) to PRABHODHANKAR THACKERAY NAGAR BUS STATION (CHARKOP) (DOWN),3
+BEST_2863,BEST,206 AS,PRABODHANKAR THACKERAY NAGAR BUS STATION (CHARKOP) to I.C.COLONY (BORIVALI -W) (UP),3
+BEST_4424,BEST,207 AS,DAHISAR BUS STATION to MALVANI DEPOT; GAIKWAD NAGAR (DOWN),3
+BEST_4425,BEST,207 AS,MALVANI DEPOT; GAIKWAD NAGAR to DAHISAR BUS STATION (UP),3
+BEST_2864,BEST,208 AS,SARASWATI COMPLEX (DAHISAR) to POISAR DEPOT (DOWN),3
+BEST_2865,BEST,208 AS,POISAR DEPOT to SARASWATI COMPLEX (DAHISAR) (UP),3
+BEST_3807,BEST,209 AS,ASHISH COMPLEX to SAMATA NAGAR BUS STATION (KANDIVALI-E) (DOWN),3
+BEST_3169,BEST,209 AS,SAMATA NAGAR BUS STATION (KANDIVALI E) to ASHISH COMPLEX (UP),3
+BEST_1762,BEST,210 LTD,DAHISAR BRIDGE to VESAVA-YARI ROAD BUS STATION (DOWN),3
+BEST_1763,BEST,210 LTD,VESAVA-YARI ROAD BUS STATION to DAHISAR BRIDGE (UP),3
+BEST_4434,BEST,211 AS,FATHER AGNEL ASHRAM (BANDRA-W) to BANDRA (W) BUS STATION (DOWN),3
+BEST_4435,BEST,211 AS,BANDRA (W) BUS STATION to FATHER AGNEL ASHRAM (BANDRA-W) (UP),3
+BEST_1771,BEST,212,BANDRA RECLAMATION BUS STATION to PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) (DOWN),3
+BEST_1772,BEST,212,PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) to BANDRA RECLAMATION BUS STATION (UP),3
+BEST_4360,BEST,214 AS,MOUNT MARY STEPS (MUNICIPAL GARDEN) to BANDRA (W) BUS STATION (DOWN),3
+BEST_4361,BEST,214 AS,BANDRA (W) BUS STATION to MOUNT MARY STEPS (MUNICIPAL GARDEN) (UP),3
+BEST_4436,BEST,215 AS,KHERWADI POLICE STATION to BANDRA RECLAMATION BUS STATION (DOWN),3
+BEST_4437,BEST,215 AS,BANDRA RECLAMATION BUS STATION to KHERWADI POLICE STATION (UP),3
+BEST_3804,BEST,216,MHADA COLONY (BHOIWADA) BLDG.NO.5E to DADAR STATION (E) (DOWN),3
+BEST_3812,BEST,216,DADAR STATION (E) to MHADA COLONY (BHOIWADA) BLDG.NO.5E (UP),3
+BEST_3309,BEST,217,MINT COLONY to DADAR STATION (E) (DOWN),3
+BEST_3310,BEST,217,DADAR STATION (E) to MINT COLONY (UP),3
+BEST_4026,BEST,217,WADALA BUS DEPOT to DADAR STATION (E) (DOWN),3
+BEST_4027,BEST,217,DADAR STATION (E) to WADALA BUS DEPOT (UP),3
+BEST_3311,BEST,218,PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) to DADAR STATION (E) (DOWN),3
+BEST_3312,BEST,218,DADAR STATION (E) to PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) (UP),3
+BEST_4486,BEST,218,WADALA BUS DEPOT to PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) (DOWN),3
+BEST_4487,BEST,218,PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) to WADALA BUS DEPOT (UP),3
+BEST_2632,BEST,219 AS,BANDRA (W) BUS STATION to BANDRA RECLAMATION BUS STATION (DOWN),3
+BEST_2633,BEST,219 AS,BANDRA RECLAMATION BUS STATION to BANDRA (W) BUS STATION (UP),3
+BEST_4345,BEST,220 AS,KHAR STATION (W) to BANDRA (W) BUS STATION (DOWN),3
+BEST_4346,BEST,220 AS,BANDRA (W) BUS STATION to KHAR STATION (W) (UP),3
+BEST_4390,BEST,221 AS,VESAVA-YARI ROAD BUS STATION to ANDHERI STATION (W) (DOWN),3
+BEST_4391,BEST,221 AS,ANDHERI STATION (W) to VESAVA-YARI ROAD BUS STATION (UP),3
+BEST_3322,BEST,222 RING,CHUIM VILLAGE to BANDRA (W) BUS STATION (DOWN),3
+BEST_3323,BEST,222 RING,BANDRA (W) BUS STATION to CHUIM VILLAGE (UP),3
+BEST_1791,BEST,223 LTD,SAMATA NAGAR BUS STATION (KANDIVALI-E) to SEVEN BUNGALOWS BUS STATION (DOWN),3
+BEST_1792,BEST,223 LTD,SEVEN BUNGALOWS BUS STATION to SAMATA NAGAR BUS STATION (KANDIVALI E) (UP),3
+BEST_4558,BEST,224 AS,BORIVALI (W) BUS STATION to SANTACRUZ DEPOT (DOWN),3
+BEST_4559,BEST,224 AS,SANTACRUZ DEPOT to BORIVALI (W) BUS STATION (UP),3
+BEST_1795,BEST,225,DINDOSHI DEPOT to BANDRA (W) BUS STATION (DOWN),3
+BEST_1796,BEST,225,BANDRA (W) BUS STATION to DINDOSHI DEPOT (UP),3
+BEST_3770,BEST,226 AS,PRABODHANKAR THACKERAY NAGAR BUS STATION (CHARKOP) to BARVE NAGAR (DOWN),3
+BEST_3771,BEST,226 AS,BARVE NAGAR to PRABODHANKAR THACKERAY NAGAR BUS STATION (CHARKOP) (UP),3
+BEST_1801,BEST,231,JUHU BUS STATION to SANTACRUZ STATION (W) (DOWN),3
+BEST_1802,BEST,231,SANTACRUZ STATION (W) to JUHU BUS STATION (UP),3
+BEST_4384,BEST,234 AS,VESAVA-YARI ROAD BUS STATION to JOGESHWARI (W) BUS STATION (DOWN),3
+BEST_4385,BEST,234 AS,JOGESHWARI (W) BUS STATION to VESAVA-YARI ROAD BUS STATION (UP),3
+BEST_4560,BEST,235 AS,MILLAT NAGAR to ANDHERI STATION (W) (DOWN),3
+BEST_4561,BEST,235 AS,ANDHERI STATION (W) to MILLAT NAGAR (UP),3
+BEST_4584,BEST,235 AS,MONGINIS (ANDHERI-W) to ANDHERI STATION (W) (DOWN),3
+BEST_4585,BEST,235 AS,ANDHERI STATION (W) to MONGINIS (ANDHERI-W) (UP),3
+BEST_1807,BEST,239,CHARKOP SECTOR 9; AKSHARA VIDYALAYA to KANDIVALI STATION (W) (DOWN),3
+BEST_1808,BEST,239,KANDIVALI STATION (W) to CHARKOP SECTOR 9; AKSHARA VIDYALAYA (UP),3
+BEST_2866,BEST,240 AS,SHANTI ASHRAM (BORIVALI W) to KANDARPADA BUS STATION (DOWN),3
+BEST_2867,BEST,240 AS,KANDARPADA BUS STATION to SHANTI ASHRAM (BORIVALI-W) (UP),3
+BEST_4221,BEST,241 AS,MALVANI DEPOT; GAIKWAD NAGAR to SANTACRUZ DEPOT (DOWN),3
+BEST_4222,BEST,241 AS,SANTACRUZ DEPOT to MALVANI DEPOT; GAIKWAD NAGAR (UP),3
+BEST_3941,BEST,242 RING,MILLAT NAGAR to ANDHERI STATION (W) (DOWN),3
+BEST_3942,BEST,242 RING,ANDHERI STATION (W) to MILLAT NAGAR (UP),3
+BEST_4233,BEST,243 AS,JANKALYAN NAGAR to MALAD STATION (W) (DOWN),3
+BEST_4234,BEST,243 AS,MALAD STATION (W) to JANKALYAN NAGAR (UP),3
+BEST_3852,BEST,244 AS,BORIVALI (W) STATION to KANDIVALI STATION (W) (DOWN),3
+BEST_3853,BEST,244 AS,KANDIVALI STATION (W) to BORIVALI (W) STATION (UP),3
+BEST_2868,BEST,245 AS,KANDARPADA BUS STATION to PRABODHANKAR THACKERAY NAGAR BUS STATION (CHARKOP) (DOWN),3
+BEST_2869,BEST,245 AS,PRABODHANKAR THACKERAY NAGAR BUS STATION (CHARKOP) to KANDARPADA BUS STATION (UP),3
+BEST_3858,BEST,246 AS,BORIVALI (W) STATION to KANDIVALI STATION (W) (DOWN),3
+BEST_3859,BEST,246 AS,KANDIVALI STATION (W) to BORIVALI (W) STATION (UP),3
+BEST_4649,BEST,247 AS,PRAGATI HIGH SCHOOL (GORAI) to BORIVALI (W) BUS STATION (DOWN),3
+BEST_4650,BEST,247 AS,BORIVALI (W) BUS STATION to PRAGATI HIGH SCHOOL (GORAI) (UP),3
+BEST_4550,BEST,248 AS,RAMESH NAGAR (ANDHERI-W) to ANDHERI STATION (W) (DOWN),3
+BEST_4551,BEST,248 AS,ANDHERI STATION (W) to RAMESH NAGAR (ANDHERI-W) (UP),3
+BEST_1825,BEST,249 RING,VESAVA-YARI ROAD BUS STATION to ANDHERI STATION (W) (DOWN),3
+BEST_1826,BEST,249 RING,ANDHERI STATION (W) to VESAVA-YARI ROAD BUS STATION (UP),3
+BEST_4030,BEST,249 AS,VESAVA-YARI ROAD BUS STATION to ANDHERI STATION (W) (DOWN),3
+BEST_4031,BEST,249 AS,ANDHERI STATION (W) to VESAVA-YARI ROAD BUS STATION (UP),3
+BEST_4386,BEST,251 AS,VESAVA-YARI ROAD BUS STATION to ANDHERI STATION (W) (DOWN),3
+BEST_4387,BEST,251 AS,ANDHERI STATION (W) to VESAVA-YARI ROAD BUS STATION (UP),3
+BEST_1829,BEST,252,SARDAR PATEL NAGAR (PARK STREET) to ANDHERI STATION (W) (DOWN),3
+BEST_1830,BEST,252,ANDHERI STATION (W) to SARDAR PATEL NAGAR (PARK STREET) (UP),3
+BEST_4552,BEST,254 AS,VEERA DESAI ROAD (EXTENSION) to ANDHERI STATION (W) (DOWN),3
+BEST_4553,BEST,254 AS,ANDHERI STATION (W) to VEERA DESAI ROAD (EXTENSION) (UP),3
+BEST_4194,BEST,255 LTD,J.V.P.D.BUS STATION to PRATIKSHA NAGAR DEPOT (DOWN),3
+BEST_4195,BEST,255 LTD,PRATIKSHA NAGAR DEPOT to J.V.P.D.BUS STATION (UP),3
+BEST_2952,BEST,256 AS,MALVANI DEPOT; GAIKWAD NAGAR to JUHU BEACH (DOWN),3
+BEST_2953,BEST,256 AS,JUHU BEACH to MALVANI DEPOT; GAIKWAD NAGAR (UP),3
+BEST_3916,BEST,257 RING,J.V.P.D.BUS STATION to ANDHERI STATION (W) (DOWN),3
+BEST_3917,BEST,257 RING,ANDHERI STATION (W) to J.V.P.D.BUS STATION (UP),3
+BEST_3834,BEST,259 AS,GORAI DEPOT to ANDHERI STATION (W) (DOWN),3
+BEST_3835,BEST,259 AS,ANDHERI STATION (W) to GORAI DEPOT (UP),3
+BEST_4368,BEST,261 AS,GOREGAON (W) BUS STATION to JOGESHWARI (W) BUS STATION (DOWN),3
+BEST_4369,BEST,261 AS,JOGESHWARI (W) BUS STATION to GOREGAON (W) BUS STATION (UP),3
+BEST_1844,BEST,262 RING,MALAD DEPOT to GOREGAON (W) BUS STATION (DOWN),3
+BEST_1845,BEST,262 RING,GOREGAON (W) BUS STATION to MALAD DEPOT (UP),3
+BEST_4528,BEST,263 AS,AYYAPA MANDIR (GOREGAON) to GOREGAON (W) BUS STATION (DOWN),3
+BEST_4529,BEST,263 AS,GOREGAON (W) BUS STATION to AYYAPA MANDIR (GOREGAON) (UP),3
+BEST_4546,BEST,264,SAMARTH NAGAR (JOGESHWARI-E) to SADBHAKTI MANDIR (DOWN),3
+BEST_4547,BEST,264,SADBHAKTI MANDIR to SAMARTH NAGAR (JOGESHWARI-E) (UP),3
+BEST_3928,BEST,266,SHREE SWAMI SAMARTH NAGAR (EXTENSION) to ANDHERI STATION (W) (DOWN),3
+BEST_3929,BEST,266,ANDHERI STATION (W) to SHREE SWAMI SAMARTH NAGAR (EXTENSION) (UP),3
+BEST_4032,BEST,266 AS,SHREE SWAMI SAMARTH NAGAR (EXTENSION) to ANDHERI STATION (W) (DOWN),3
+BEST_4033,BEST,266 AS,ANDHERI STATION (W) to SHREE SWAMI SAMARTH NAGAR (EXTENSION) (UP),3
+BEST_713,BEST,268 RING,SHREE SWAMI SAMARTH NAGAR to ANDHERI STATION (W) (DOWN),3
+BEST_2391,BEST,268 RING,ANDHERI STATION (W) to SHREE SWAMI SAMARTH NAGAR (UP),3
+BEST_4568,BEST,269 AS,BORIVALI (W) BUS STATION to MADH JETTY (DOWN),3
+BEST_4569,BEST,269 AS,MADH JETTY to BORIVALI (W) BUS STATION (UP),3
+BEST_1854,BEST,270,ZUNKA BHAKAR KENDRA (MALVANI) to MALAD STATION (W) (DOWN),3
+BEST_1855,BEST,270,MALAD STATION (W) to ZUNKA BHAKAR KENDRA (MALVANI) (UP),3
+BEST_4566,BEST,271,MADH JETTY to MALAD STATION (W) (DOWN),3
+BEST_4567,BEST,271,MALAD STATION (W) to MADH JETTY (UP),3
+BEST_4432,BEST,272 AS,MARVE BEACH-ESSEL WORLD to MALAD STATION (W) (DOWN),3
+BEST_4433,BEST,272 AS,MALAD STATION (W) to MARVE BEACH-ESSEL WORLD (UP),3
+BEST_2650,BEST,273 AS,MALVANI DEPOT; GAIKWAD NAGAR to MALAD STATION (W) (DOWN),3
+BEST_2651,BEST,273 AS,MALAD STATION (W) to MALVANI DEPOT; GAIKWAD NAGAR (UP),3
+BEST_3225,BEST,273 AS,MHADA COLONY; MALVANI to MALAD STATION (W) (DOWN),3
+BEST_3226,BEST,273 AS,MALAD STATION (W) to MHADA COLONY; MALVANI (UP),3
+BEST_3882,BEST,274 AS,BUNDER PAKHADI VILLAGE to KANDIVALI STATION (W) (DOWN),3
+BEST_3883,BEST,274 AS,KANDIVALI STATION (W) to BUNDER PAKHADI VILLAGE (UP),3
+BEST_4223,BEST,276 AS,CHARKOP SECTOR 8 to KANDIVALI STATION (W) (DOWN),3
+BEST_4224,BEST,276 AS,KANDIVALI STATION (W) to CHARKOP SECTOR 8 (UP),3
+BEST_3850,BEST,277 AS,BORIVALI (W) STATION to KANDIVLI STATION (W) (DOWN),3
+BEST_3851,BEST,277 AS,KANDIVALI STATION (W) to BORIVALI (W) STATION (UP),3
+BEST_4241,BEST,278 AS,MARINA CNCLAVE to KANDIVALI STATION (W) (DOWN),3
+BEST_4242,BEST,278 AS,KANDIVALI STATION (W) to MARINA ENCLAVE (UP),3
+BEST_3898,BEST,279,POISAR DEPOT to SAMATA NAGAR BUS STATION (KANDIVALI E) (DOWN),3
+BEST_3899,BEST,279,SAMATA NAGAR BUS STATION (KANDIVALI-E) to POISAR DEPOT (UP),3
+BEST_3884,BEST,280 AS,MAHAVIR NAGAR EXTENSION (KANDIVLI-W); PARIJAT SOCIETY to KANDIVALI STATION (W) (DOWN),3
+BEST_3885,BEST,280 AS,KANDIVALI STATION (W) to MAHAVIR NAGAR EXTENSION (KANDIVLI-W); PARIJAT SOCIETY (UP),3
+BEST_3886,BEST,281 AS,KANDIVALI STATION (W) to PUSHPA PARK (MALAD-E) (DOWN),3
+BEST_3887,BEST,281 AS,PUSHPA PARK (MALAD-E) to KANDIVALI STATION (W) (UP),3
+BEST_3918,BEST,282 AS,DAMU NAGAR (EXTENSION) to KANDIVALI BUS STATION (E) (DOWN),3
+BEST_3919,BEST,282 AS,KANDIVALI BUS STATION (E) to DAMU NAGAR (EXTENSION) (UP),3
+BEST_3888,BEST,286 AS,CHARKOP VILLAGE to KANDIVALI STATION (W) (DOWN),3
+BEST_3889,BEST,286 AS,KANDIVALI STATION (W) to CHARKOP VILLAGE (UP),3
+BEST_2836,BEST,287 AS,E.S.I.S HOSPITAL (THAKUR VILLAGE) to KANDIVALI BUS STATION (E) (DOWN),3
+BEST_2837,BEST,287 AS,KANDIVALI BUS STATION (E) to E.S.I.S HOSPITAL (THAKUR VILLAGE) (UP),3
+BEST_2838,BEST,288 AS,KRANTI NAGAR to KANDIVALI BUS STATION (E) (DOWN),3
+BEST_2839,BEST,288 AS,KANDIVALI BUS STATION (E) to KRANTI NAGAR (UP),3
+BEST_3920,BEST,289 AS,ANITA NAGAR to KANDIVALI BUS STATION (E) (DOWN),3
+BEST_3921,BEST,289 AS,KANDIVALI BUS STATION (E) to ANITA NAGAR (UP),3
+BEST_2807,BEST,293 AS,SHRI KRISHNA NAGAR POST OFFICE to JAI MAHARASHTRA NAGAR (BORIVALI -E) (DOWN),3
+BEST_2808,BEST,293 AS,JAI MAHARASHTRA NAGAR (BORIVALI -E) to SHRI KRISHNA NAGAR POST OFFICE (UP),3
+BEST_2872,BEST,294 AS,GORAI CREEK to BORIVALI (W) BUS STATION (DOWN),3
+BEST_2873,BEST,294 AS,BORIVALI (W) BUS STATION to GORAI CREEK (UP),3
+BEST_2874,BEST,296 AS,MAHAVIR NAGAR EXTENSION (KANDIVLI-W); PARIJAT SOCIETY to SHANTI ASHRAM (BORIVALI W) (DOWN),3
+BEST_2875,BEST,296 AS,SHANTI ASHRAM (BORIVALI W) to MAHAVIR NAGAR EXTENSION (KANDIVLI-W); PARIJAT SOCIETY (UP),3
+BEST_2876,BEST,297 AS,KOKANIPADA (EXTENSION) (BORIVALI -E) to BORIVALI (E) STATION (DOWN),3
+BEST_2877,BEST,297 AS,BORIVALI (E) STATION to KOKANIPADA (EXTENSION) (BORIVALI -E) (UP),3
+BEST_4142,BEST,298 AS,RAWAL PADA to BORIVALI (E) STATION (DOWN),3
+BEST_4143,BEST,298 AS,BORIVALI (E) STATION to RAWAL PADA (UP),3
+BEST_4204,BEST,3 AS,JIJAMATA UDYAN (BYCULLA) to NAVY NAGAR (COLABA) (DOWN),3
+BEST_4205,BEST,3 AS,NAVY NAGAR (COLABA) to JIJAMATA UDYAN (BYCULLA) (UP),3
+BEST_4446,BEST,30 AS,VIKHROLI DEPOT to PT.PALUSKAR CHOWK (DOWN),3
+BEST_4447,BEST,30 AS,PT.PALUSKAR CHOWK to VIKHROLI DEPOT (UP),3
+BEST_4364,BEST,32 AS,VESAVA-YARI ROAD BUS STATION to GOREGAON (W) BUS STATION (DOWN),3
+BEST_4365,BEST,32 AS,GOREGAON (W) BUS STATION to VESAVA-YARI ROAD BUS STATION (UP),3
+BEST_4370,BEST,33 AS,GOREGAON (W) BUS STATION to WORLI DEPOT (DOWN),3
+BEST_4371,BEST,33 AS,WORLI DEPOT to GOREGAON (W) BUS STATION (UP),3
+BEST_4341,BEST,35 AS,MAJAS DEPOT to COMRADE P.K.KURNE CHOWK (WORLI ) (DOWN),3
+BEST_4342,BEST,35 AS,COMRADE P.K.KURNE CHOWK (WORLI ) to MAJAS DEPOT (UP),3
+BEST_4136,BEST,37 AS,KURLA STATION (W) to J.MEHTA MARG (NAPEAN SEA ROAD) (DOWN),3
+BEST_4137,BEST,37 AS,J.MEHTA MARG (NAPEAN SEA ROAD) to KURLA STATION (W) (UP),3
+BEST_1539,BEST,39,MAROL DEPOT to VEER HUTATMA BHAI KOTWAL UDYAN (PLAZA) (DOWN),3
+BEST_1540,BEST,39,VEER HUTATMA BHAI KOTWAL UDYAN (PLAZA) to MAROL DEPOT (UP),3
+BEST_4269,BEST,39 AS,MAJAS DEPOT to VEER HUTATMA BHAI KOTWAL UDYAN (PLAZA) (DOWN),3
+BEST_4270,BEST,39 AS,VEER HUTATMA BHAI KOTWAL UDYAN (PLAZA) to MAJAS DEPOT (UP),3
+BEST_2840,BEST,300 AS,SANSKRITI APARTMENT to KANDIVALI BUS STATION (E) (DOWN),3
+BEST_2841,BEST,300 AS,KANDIVALI BUS STATION (E) to SANSKRITI APARTMENT (UP),3
+BEST_4592,BEST,301 AS,HANUMAN TEKDI (BORIVALI -E) to BORIVALI (E) STATION (DOWN),3
+BEST_4593,BEST,301 AS,BORIVALI (E) STATION to HANUMAN TEKDI (BORIVALI -E) (UP),3
+BEST_3842,BEST,302 C,MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) to DHARAVI DEPOT (DOWN),3
+BEST_3843,BEST,302 C,DHARAVI DEPOT to MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) (UP),3
+BEST_1896,BEST,303,MULUND RAILWAY STATION (W) to BANDRA (E) BUS STATION (DOWN),3
+BEST_1897,BEST,303,BANDRA (E) BUS STATION to MULUND RAILWAY STATION (W) (UP),3
+BEST_3644,BEST,305 C,DHARAVI DEPOT to BACKBAY DEPOT (DOWN),3
+BEST_3645,BEST,305 C,BACKBAY DEPOT to DHARAVI DEPOT (UP),3
+BEST_4516,BEST,307,MAJAS DEPOT to VAISHALI NAGAR (MULUND-W) (DOWN),3
+BEST_4517,BEST,307,VAISHALI NAGAR (MULUND-W) to MAJAS DEPOT (UP),3
+BEST_1906,BEST,308,MAJAS DEPOT to VIDYA VIHAR BUS STATION (W) (DOWN),3
+BEST_1907,BEST,308,VIDYA VIHAR BUS STATION (W) to MAJAS DEPOT (UP),3
+BEST_1912,BEST,310,BANDRA RAILWAY TERMINUS to KURLA STATION (W) (DOWN),3
+BEST_1913,BEST,310,KURLA STATION (W) to BANDRA RAILWAY TERMINUS (UP),3
+BEST_3828,BEST,310 AS,BANDRA RAILWAY TERMINUS to KURLA STATION (W) (DOWN),3
+BEST_3829,BEST,310 AS,KURLA STATION (W) to BANDRA RAILWAY TERMINUS (UP),3
+BEST_3872,BEST,311 AS,SANTACRUZ STATION (E) to KURLA STATION (W) (DOWN),3
+BEST_3873,BEST,311 AS,KURLA STATION (W) to SANTACRUZ STATION (E) (UP),3
+BEST_4355,BEST,312,SEEPZ BUS STATION to PRATIKSHA NAGAR DEPOT (DOWN),3
+BEST_4356,BEST,312,PRATIKSHA NAGAR DEPOT to SEEPZ BUS STATION (UP),3
+BEST_4513,BEST,312,RANI LAXMIBAI CHOWK (SION) to PRATIKSHA NAGAR DEPOT (DOWN),3
+BEST_4514,BEST,312,PRATIKSHA NAGAR DEPOT to RANI LAXMIBAI CHOWK (SION) (UP),3
+BEST_4388,BEST,313 AS,SANTACRUZ STATION (E) to KURLA STATION (W) (DOWN),3
+BEST_4389,BEST,313 AS,KURLA STATION (W) to SANTACRUZ STATION (E) (UP),3
+BEST_4526,BEST,315 AS,SAMAJ MANDIR HALL (SION KOLIWADA) to RANI LAXMIBAI CHOWK (SION) (DOWN),3
+BEST_4527,BEST,315 AS,RANI LAXMIBAI CHOWK (SION) to SAMAJ MANDIR HALL (SION KOLIWADA) (UP),3
+BEST_1922,BEST,316,BANDRA COLONY BUS STATION to BANDRA RAILWAY TERMINUS (DOWN),3
+BEST_1923,BEST,316,BANDRA RAILWAY TERMINUS to BANDRA COLONY BUS STATION (UP),3
+BEST_1924,BEST,317,TATA COLONY (BANDRA-E) to BANDRA RAILWAY TERMINUS (DOWN),3
+BEST_1925,BEST,317,BANDRA RAILWAY TERMINUS to TATA COLONY (BANDRA-E) (UP),3
+BEST_4265,BEST,318 AS,SANTACRUZ STATION (E) to KURLA STATION (W) (DOWN),3
+BEST_4266,BEST,318 AS,KURLA STATION (W) to SANTACRUZ STATION (E) (UP),3
+BEST_4291,BEST,319 AS,MAJAS DEPOT to KURLA STATION (W) (DOWN),3
+BEST_4292,BEST,319 AS,KURLA STATION (W) to MAJAS DEPOT (UP),3
+BEST_1930,BEST,320,FILTER PADA to KURLA STATION (W) (DOWN),3
+BEST_1931,BEST,320,KURLA STATION (W) to FILTER PADA (UP),3
+BEST_1932,BEST,321 LTD,BARVE NAGAR to MAHIM BUS STATION (DOWN),3
+BEST_1933,BEST,321 LTD,MAHIM BUS STATION to BARVE NAGAR (UP),3
+BEST_4351,BEST,322 AS,MAHANT ROAD; VILE PARLE (E) to VIDYA VIHAR BUS STATION (W) (DOWN),3
+BEST_4352,BEST,322 AS,VIDYA VIHAR BUS STATION (W) to MAHANT ROAD; VILE PARLE (E) (UP),3
+BEST_4353,BEST,323 AS,SANGHARSH NAGAR (CHANDIVALI) to VIDYA VIHAR BUS STATION (W) (DOWN),3
+BEST_4354,BEST,323 AS,VIDYA VIHAR BUS STATION (W) to SANGHARSH NAGAR (CHANDIVALI) (UP),3
+BEST_4661,BEST,324,SEEPZ BUS STATION to SADBHAKTI MANDIR (DOWN),3
+BEST_4662,BEST,324,SADBHAKTI MANDIR to SEEPZ BUS STATION (UP),3
+BEST_2894,BEST,325 AS,GHATKOPAR STATION (W) to KURLA STATION (W) (DOWN),3
+BEST_2895,BEST,325 AS,KURLA STATION (W) to GHATKOPAR STATION (W) (UP),3
+BEST_4347,BEST,326 AS,SHIVSHAHI PRAKALP; MANTRI PARK to KURLA STATION (W) (DOWN),3
+BEST_4348,BEST,326 AS,KURLA STATION (W) to SHIVSHAHI PRAKALP; MANTRI PARK (UP),3
+BEST_1942,BEST,327,SHIVSHAHI PRAKALP; MANTRI PARK to GOREGAON STATION (E) (DOWN),3
+BEST_1943,BEST,327,GOREGAON STATION (E) BUS STATION to SHIVSHAHI PRAKALP; MANTRI PARK (UP),3
+BEST_4293,BEST,329 AS,AGARKAR CHOWK (ANDHERI-E) to SHIVAJI NAGAR DEPOT (DOWN),3
+BEST_4294,BEST,329 AS,SHIVAJI NAGAR DEPOT to AGARKAR CHOWK (ANDHERI-E) (UP),3
+BEST_4263,BEST,330 AS,AGARKAR CHOWK (ANDHERI-E) to KURLA STATION (W) (DOWN),3
+BEST_4264,BEST,330 AS,KURLA STATION (W) to AGARKAR CHOWK (ANDHERI-E) (UP),3
+BEST_4163,BEST,331 AS,SAHAR CARGO COMPLEX to GHATKOPAR STATION (W) (DOWN),3
+BEST_4164,BEST,331 AS,GHATKOPAR STATION (W) to SAHAR CARGO COMPLEX (UP),3
+BEST_4480,BEST,332,MAJAS DEPOT to KURLA STATION (W) (DOWN),3
+BEST_4481,BEST,332,KURLA STATION (W) to MAJAS DEPOT (UP),3
+BEST_3782,BEST,332 AS,AGARKAR CHOWK (ANDHERI-E) to KURLA STATION (W) (DOWN),3
+BEST_3783,BEST,332 AS,KURLA STATION (W) to AGARKAR CHOWK (ANDHERI-E) (UP),3
+BEST_1954,BEST,333,KONDIVITA CAVES; MAHAKALI CAVES to NEW QUARTERS; MAHARSHI VALMIKI CHOWK (DOWN),3
+BEST_1955,BEST,333,NEW QUARTERS; MAHARSHI VALMIKI CHOWK to KONDIVITA CAVES; MAHAKALI CAVES (UP),3
+BEST_3932,BEST,334 AS,MAROL DEPOT to GHATKOPAR STATION (W) (DOWN),3
+BEST_3933,BEST,334 AS,GHATKOPAR STATION (W) to MAROL DEPOT (UP),3
+BEST_1958,BEST,335,SANGHARSH NAGAR (CHANDIVALI) to AGARKAR CHOWK (ANDHERI-E) (DOWN),3
+BEST_1959,BEST,335,AGARKAR CHOWK (ANDHERI E) to SANGHARSH NAGAR (CHANDIVALI) (UP),3
+BEST_4394,BEST,336 AS,RANI LAXMIBAI CHOWK (SION) to ANTOP HILL EXTENSION (DOWN),3
+BEST_4395,BEST,336 AS,ANTOP HILL EXTENSION to RANI LAXMIBAI CHOWK (SION) (UP),3
+BEST_4540,BEST,337,CHHATRAPATI SHIVAJI INTERNATIONAL AIRPORT (SAHAR) to AGARKAR CHOWK (ANDHERI-E) (DOWN),3
+BEST_4541,BEST,337,AGARKAR CHOWK (ANDHERI E) to CHHATRAPATI SHIVAJI INTERNATIONAL AIRPORT (SAHAR) (UP),3
+BEST_4542,BEST,338,SAHAR CARGO COMPLEX to AGARKAR CHOWK (ANDHERI-E) (DOWN),3
+BEST_4543,BEST,338,AGARKAR CHOWK (ANDHERI E) to SAHAR CARGO COMPLEX (UP),3
+BEST_4594,BEST,339,MAJAS DEPOT to JUHU BUS STATION (DOWN),3
+BEST_4595,BEST,339,JUHU BUS STATION to MAJAS DEPOT (UP),3
+BEST_4408,BEST,340 AS,AGARKAR CHOWK (ANDHERI-E) to GHATKOPAR STATION (W) (DOWN),3
+BEST_4409,BEST,340 AS,GHATKOPAR STATION (W) to AGARKAR CHOWK (ANDHERI-E) (UP),3
+BEST_2664,BEST,341 AS,GOREGAON STATION (E) to ANTOP HILL (DOWN),3
+BEST_2665,BEST,341 AS,ANTOP HILL to GOREGAON STATION (E) (UP),3
+BEST_1974,BEST,342,KOKAN VIKAS (AAREY COLONY) to GOREGAON STATION (E) (DOWN),3
+BEST_1975,BEST,342,GOREGAON STATION (E) to KOKAN VIKAS (AAREY COLONY) (UP),3
+BEST_4562,BEST,343 AS,DADASAHEB PHALKE CHITRANAGRI to GOREGAON STATION (E) (DOWN),3
+BEST_4563,BEST,343 AS,GOREGAON STATION (E) to DADASAHEB PHALKE CHITRANAGRI (UP),3
+BEST_4548,BEST,344 RING,SANKALP SOCIETY to GOREGAON STATION (E) (DOWN),3
+BEST_4549,BEST,344 RING,GOREGAON STATION (E) BUS STATION to SANKALP SOCIETY (UP),3
+BEST_3134,BEST,345 AS,GORAI DEPOT to SANTOSH NAGAR (EXTENSION) (DOWN),3
+BEST_3135,BEST,345 AS,SANTOSH NAGAR (EXTENSION) to GORAI DEPOT (UP),3
+BEST_1982,BEST,346,SHIVSHAHI PRAKALP; MANTRI PARK to GOREGAON STATION (E) (DOWN),3
+BEST_1983,BEST,346,GOREGAON STATION (E) BUS STATION to SHIVSHAHI PRAKALP; MANTRI PARK (UP),3
+BEST_4225,BEST,347 AS,GOKULDHAM to GOREGAON STATION (E) (DOWN),3
+BEST_4226,BEST,347 AS,GOREGAON STATION (E) to GOKULDHAM (UP),3
+BEST_4416,BEST,348 LTD,DINDOSHI DEPOT to PRATIKSHA NAGAR DEPOT (DOWN),3
+BEST_4417,BEST,348 LTD,PRATIKSHA NAGAR DEPOT to DINDOSHI DEPOT (UP),3
+BEST_1990,BEST,349,SANTOSH NAGAR (EXTENSION) to MAROL DEPOT (DOWN),3
+BEST_1991,BEST,349,MAROL DEPOT to SANTOSH NAGAR (EXTENSION) (UP),3
+BEST_2821,BEST,350 AS,SHIVAJI NAGAR BUS STATION to KURLA BUS STATION (E) (DOWN),3
+BEST_2822,BEST,350 AS,KURLA BUS STATION (E) to SHIVAJI NAGAR BUS STATION (UP),3
+BEST_3819,BEST,351 AS,TATA POWER CENTRE (MAHUL) to MUMBAI CENTRAL DEPOT (DOWN),3
+BEST_3820,BEST,351 AS,MUMBAI CENTRAL DEPOT to TATA POWER CENTRE (MAHUL) (UP),3
+BEST_3945,BEST,352,RANI LAXMIBAI CHOWK (SION) to TROMBAY (DOWN),3
+BEST_3946,BEST,352,TROMBAY to RANI LAXMIBAI CHOWK (SION) (UP),3
+BEST_4093,BEST,354 AS,KANNAMWAR NAGAR NO.2 to WORLI DEPOT (DOWN),3
+BEST_4094,BEST,354 AS,WORLI DEPOT to KANNAMWAR NAGAR NO.2 (UP),3
+BEST_3840,BEST,355 LTD,SANTACRUZ DEPOT to TROMBAY (DOWN),3
+BEST_3841,BEST,355 LTD,TROMBAY to SANTACRUZ DEPOT (UP),3
+BEST_4325,BEST,356 AS,SANTACRUZ DEPOT to TATA POWER CENTRE (MAHUL) (DOWN),3
+BEST_4326,BEST,356 AS,TATA POWER CENTRE (MAHUL) to SANTACRUZ DEPOT (UP),3
+BEST_4578,BEST,357 AS,SHIVAJI NAGAR DEPOT to MUMBAI CENTRAL DEPOT (DOWN),3
+BEST_4579,BEST,357 AS,MUMBAI CENTRAL DEPOT to SHIVAJI NAGAR DEPOT (UP),3
+BEST_2940,BEST,359 AS,MALVANI DEPOT; GAIKWAD NAGAR to HIRANANDANI; POWAI BUS STATION (DOWN),3
+BEST_2941,BEST,359 AS,HIRANANDANI; POWAI BUS STATION to MALVANI DEPOT; GAIKWAD NAGAR (UP),3
+BEST_4590,BEST,360 AS,KURLA BUS STATION (E) to TROMBAY (DOWN),3
+BEST_4591,BEST,360 AS,TROMBAY to KURLA BUS STATION (E) (UP),3
+BEST_4598,BEST,361 AS,KURLA BUS STATION (E) to MAHUL VILLAGE (DOWN),3
+BEST_4599,BEST,361 AS,MAHUL VILLAGE to KURLA BUS STATION (E) (UP),3
+BEST_4596,BEST,362 AS,KURLA BUS STATION (E) to DR.AMBEDKAR UDYAN; CHEMBUR STATION (DOWN),3
+BEST_4597,BEST,362 AS,DR.AMBEDKAR UDYAN; CHEMBUR STATION to KURLA BUS STATION (E) (UP),3
+BEST_4400,BEST,362 AS,KURLA BUS STATION (E) to DEONAR DEPOT (DOWN),3
+BEST_4401,BEST,362 AS,DEONAR DEPOT to KURLA BUS STATION (E) (UP),3
+BEST_4357,BEST,363 AS,MAHUL VILLAGE to KURLA BUS STATION (E) (DOWN),3
+BEST_4358,BEST,363 AS,KURLA BUS STATION (E) to MAHUL VILLAGE (UP),3
+BEST_3744,BEST,364 AS,TROMBAY to MAHUL VILLAGE (DOWN),3
+BEST_3745,BEST,364 AS,MAHUL VILLAGE to TROMBAY (UP),3
+BEST_4349,BEST,365 AS,SAHAR CARGO COMPLEX to KURLA STATION (W) (DOWN),3
+BEST_4350,BEST,365 AS,KURLA STATION (W) to SAHAR CARGO COMPLEX (UP),3
+BEST_2715,BEST,367 AS,KURLA BUS STATION (E) to GADKARI QUARRY (DOWN),3
+BEST_2716,BEST,367 AS,GADKARI QUARRY to KURLA BUS STATION (E) (UP),3
+BEST_2030,BEST,368 LTD,MULUND DEPOT to PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) (DOWN),3
+BEST_2031,BEST,368 LTD,PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) to MULUND DEPOT (UP),3
+BEST_4259,BEST,369 AS,VASHI NAKA (CHEMBUR); M.M.R.D.A COLONY to KURLA BUS STATION (E) (DOWN),3
+BEST_4260,BEST,369 AS,KURLA BUS STATION (E) to VASHI NAKA (CHEMBUR); M.M.R.D.A COLONY (UP),3
+BEST_4438,BEST,370 AS,KELKAR COLLEGE to MHADA COLONY BUS STATION (MULUND-E) (DOWN),3
+BEST_4439,BEST,370 AS,MHADA COLONY BUS STATION (MULUND-E) to KELKAR COLLEGE (UP),3
+BEST_4570,BEST,371 AS,BANDRA RAILWAY TERMINUS to SHIVAJI NAGAR DEPOT (DOWN),3
+BEST_4571,BEST,371 AS,SHIVAJI NAGAR DEPOT to BANDRA RAILWAY TERMINUS (UP),3
+BEST_2695,BEST,372 AS,SHIVAJI NAGAR BUS STATION to TROMBAY (DOWN),3
+BEST_2696,BEST,372 AS,TROMBAY to SHIVAJI NAGAR BUS STATION (UP),3
+BEST_4489,BEST,372 AS,SHIVAJI NAGAR DEPOT to SHIVAJI NAGAR (GOVANDI) TERMINUS (DOWN),3
+BEST_4490,BEST,372 AS,SHIVAJI NAGAR (GOVANDI) TERMINUS to SHIVAJI NAGAR DEPOT (UP),3
+BEST_3696,BEST,373 AS,VAISHALI NAGAR (MULUND-W) to MAHUL VILLAGE (DOWN),3
+BEST_3697,BEST,373 AS,MAHUL VILLAGE to VAISHALI NAGAR (MULUND-W) (UP),3
+BEST_4544,BEST,374,SANTACRUZ DEPOT to RANI LAXMIBAI CHOWK; SION STATION (DOWN),3
+BEST_4545,BEST,374,RANI LAXMIBAI CHOWK; SION STATION to SANTACRUZ DEPOT (UP),3
+BEST_4574,BEST,375 AS,BANDRA (W) BUS STATION to SHIVAJI NAGAR DEPOT (DOWN),3
+BEST_4575,BEST,375 AS,SHIVAJI NAGAR DEPOT to BANDRA (W) BUS STATION (UP),3
+BEST_3011,BEST,376 AS,MAHIM BUS STATION to SHIVAJI NAGAR BUS STATION (DOWN),3
+BEST_3012,BEST,376 AS,SHIVAJI NAGAR BUS STATION to MAHIM BUS STATION (UP),3
+BEST_2907,BEST,377 AS,S.R.A COLONY MANKHURD (LALLUBHAI COMPOUND) to KURLA BUS STATION (E) (DOWN),3
+BEST_2908,BEST,377 AS,KURLA BUS STATION (E) to S.R.A COLONY MANKHURD (LALLUBHAI COMPOUND) (UP),3
+BEST_3030,BEST,378 AS,MANKHURD STATION (SOUTH) EXTN to TROMBAY (DOWN),3
+BEST_3031,BEST,378 AS,TROMBAY to MANKHURD STATION (SOUTH) EXTN (UP),3
+BEST_3182,BEST,379 AS,GHATKOPAR STATION (E) to SHIVAJI NAGAR (GOVANDI) TERMINUS (DOWN),3
+BEST_3183,BEST,379 AS,SHIVAJI NAGAR (GOVANDI) TERMINUS to GHATKOPAR STATION (E) (UP),3
+BEST_3032,BEST,380 AS,GHATKOPAR STATION (E) to TROMBAY (DOWN),3
+BEST_3033,BEST,380 AS,TROMBAY to GHATKOPAR STATION (E) (UP),3
+BEST_2896,BEST,381 AS,TATA POWER CENTRE (MAHUL) to GHATKOPAR BUS STATION (DOWN),3
+BEST_2897,BEST,381 AS,GHATKOPAR BUS STATION to TATA POWER CENTRE (MAHUL) (UP),3
+BEST_4420,BEST,382 LTD,SAHAR CARGO COMPLEX to ANUSHAKTI NAGAR BUS STATION (DOWN),3
+BEST_4421,BEST,382 LTD,ANUSHAKTI NAGAR BUS STATION to SAHAR CARGO COMPLEX (UP),3
+BEST_2888,BEST,383 AS,SHIVAJI NAGAR BUS STATION to GADKARI QUARRY (DOWN),3
+BEST_2889,BEST,383 AS,GADKARI QUARRY to SHIVAJI NAGAR BUS STATION (UP),3
+BEST_3040,BEST,385 AS,GHATKOPAR BUS STATION to COMRADE P.K.KURNE CHOWK (WORLI ) (DOWN),3
+BEST_3041,BEST,385 AS,COMRADE P.K.KURNE CHOWK (WORLI ) to GHATKOPAR BUS STATION (UP),3
+BEST_4188,BEST,386 AS,NAGBABA MANDIR (KAILAS COMPLEX) to GHATKOPAR STATION (W) (DOWN),3
+BEST_4189,BEST,386 AS,GHATKOPAR STATION (W) to NAGBABA MANDIR (KAILAS COMPLEX) (UP),3
+BEST_4196,BEST,387 AS,VIKHROLI PARK SITE to GHATKOPAR STATION (W) (DOWN),3
+BEST_4197,BEST,387 AS,GHATKOPAR STATION (W) to VIKHROLI PARK SITE (UP),3
+BEST_4099,BEST,389 AS,BARVE NAGAR to GHATKOPAR STATION (W) (DOWN),3
+BEST_4100,BEST,389 AS,GHATKOPAR STATION (W) to BARVE NAGAR (UP),3
+BEST_3116,BEST,391 AS,KHINDIPADA (DARGAH) to MULUND RAILWAY STATION (W) (DOWN),3
+BEST_3117,BEST,391 AS,MULUND RAILWAY STATION (W) to KHINDIPADA (DARGAH) (UP),3
+BEST_4482,BEST,392,MAJAS DEPOT to VIKHROLI DEPOT (DOWN),3
+BEST_4483,BEST,392,VIKHROLI DEPOT to MAJAS DEPOT (UP),3
+BEST_4404,BEST,392 AS,MAJAS DEPOT to VIKHROLI DEPOT (DOWN),3
+BEST_4405,BEST,392 AS,VIKHROLI DEPOT to MAJAS DEPOT (UP),3
+BEST_2898,BEST,394 AS,KANNAMWAR NAGAR NO.2 to VIKHROLI BUS STATION (E) (DOWN),3
+BEST_2899,BEST,394 AS,VIKHROLI BUS STATION (E) to KANNAMWAR NAGAR NO.2 (UP),3
+BEST_4493,BEST,396 AS,AGARKAR CHOWK (ANDHERI-E) to MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) (DOWN),3
+BEST_4494,BEST,396 AS,MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) to AGARKAR CHOWK (ANDHERI-E) (UP),3
+BEST_2900,BEST,397 AS,KANNAMWAR NAGAR; BUILDING NO.124 to VIKHROLI BUS STATION (E) (DOWN),3
+BEST_2901,BEST,397 AS,VIKHROLI BUS STATION (E) to KANNAMWAR NAGAR; BUILDING NO.124 (UP),3
+BEST_3924,BEST,398 LTD,DINDOSHI DEPOT to MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) (DOWN),3
+BEST_3925,BEST,398 LTD,MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) to DINDOSHI DEPOT (UP),3
+BEST_4422,BEST,399 AS,MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) to TROMBAY (DOWN),3
+BEST_4423,BEST,399 AS,TROMBAY to MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) (UP),3
+BEST_2485,BEST,4 AS,GOREGAON; OSHIWARA DEPOT to DR.M.IQBAL CHOWK (J J HOSPITAL) (DOWN),3
+BEST_2484,BEST,4 AS,DR.M.IQBAL CHOWK (J J HOSPITAL) to GOREGAON; OSHIWARA DEPOT (UP),3
+BEST_2970,BEST,40 C,DINDOSHI DEPOT to PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) (DOWN),3
+BEST_2971,BEST,40 C,PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) to DINDOSHI DEPOT (UP),3
+BEST_2634,BEST,42 AS,KAMALA NEHRU PARK (MALABAR HILL) to FERRY WHARF (DOWN),3
+BEST_2635,BEST,42 AS,FERRY WHARF to KAMALA NEHRU PARK (MALABAR HILL) (UP),3
+BEST_4215,BEST,44 AS,WORLI DEPOT to SHRAWAN YASHWANTE CHOWK (KALA CHOWKY) (DOWN),3
+BEST_4216,BEST,44 AS,SHRAWAN YASHWANTE CHOWK (KALA CHOWKY) to WORLI DEPOT (UP),3
+BEST_1563,BEST,46,DHARAVI DEPOT to FERRY WHARF (DOWN),3
+BEST_1564,BEST,46,FERRY WHARF to DHARAVI DEPOT (UP),3
+BEST_3118,BEST,401 AS,VAISHALI NAGAR (MULUND-W) to MULUND RAILWAY STATION (W) (DOWN),3
+BEST_3119,BEST,401 AS,MULUND RAILWAY STATION (W) to VAISHALI NAGAR (MULUND-W) (UP),3
+BEST_2932,BEST,402 AS,VAISHALI NAGAR (MULUND-W) to MULUND RAILWAY STATION (W) (DOWN),3
+BEST_2933,BEST,402 AS,MULUND RAILWAY STATION (W) to VAISHALI NAGAR (MULUND-W) (UP),3
+BEST_3120,BEST,403 AS,AGARKAR CHOWK (ANDHERI-E) to MHADA COLONY BUS STATION (MULUND-E) (DOWN),3
+BEST_3121,BEST,403 AS,MHADA COLONY BUS STATION (MULUND-E) to AGARKAR CHOWK (ANDHERI-E) (UP),3
+BEST_2823,BEST,404 AS,SHIVAJI NAGAR BUS STATION to GHATKOPAR STATION (E) (DOWN),3
+BEST_2824,BEST,404 AS,GHATKOPAR STATION (E) to SHIVAJI NAGAR BUS STATION (UP),3
+BEST_2934,BEST,405 AS,YOGI HILLS (MULUND-W) to MULUND RAILWAY STATION (W) (DOWN),3
+BEST_2935,BEST,405 AS,MULUND RAILWAY STATION (W) to YOGI HILLS (MULUND-W) (UP),3
+BEST_3318,BEST,406,RAILWAY POLICE COLONY to GHATKOPAR STATION (E) (DOWN),3
+BEST_3319,BEST,406,GHATKOPAR STATION (E) to RAILWAY POLICE COLONY (UP),3
+BEST_4495,BEST,409 AS,SAHAR CARGO COMPLEX to MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) (DOWN),3
+BEST_4496,BEST,409 AS,MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) to SAHAR CARGO COMPLEX (UP),3
+BEST_4406,BEST,410 AS,KONDIVITA CAVES; MAHAKALI CAVES to VIKHROLI DEPOT (DOWN),3
+BEST_4407,BEST,410 AS,VIKHROLI DEPOT to KONDIVITA CAVES; MAHAKALI CAVES (UP),3
+BEST_4478,BEST,410 AS,BARVE NAGAR to VIKHROLI DEPOT (DOWN),3
+BEST_4479,BEST,410 AS,VIKHROLI DEPOT to BARVE NAGAR (UP),3
+BEST_4586,BEST,411,SANGHARSH NAGAR (CHANDIVALI) to WADALA BUS DEPOT (DOWN),3
+BEST_4587,BEST,411,WADALA BUS DEPOT to SANGHARSH NAGAR (CHANDIVALI) (UP),3
+BEST_4309,BEST,412 AS,GHATI PADA to MULUND RAILWAY STATION (W) (DOWN),3
+BEST_4310,BEST,412 AS,MULUND RAILWAY STATION (W) to GHATI PADA (UP),3
+BEST_2097,BEST,413,SANTACRUZ STATION (E) to KUNCHI KURVE NAGAR (DOWN),3
+BEST_2098,BEST,413,KUNCHI KURVE NAGAR to SANTACRUZ STATION (E) (UP),3
+BEST_3386,BEST,414 AS,MULUND RAILWAY STATION (W) to NAHUR BUS STATION (DOWN),3
+BEST_3387,BEST,414 AS,NAHUR BUS STATION to MULUND RAILWAY STATION (W) (UP),3
+BEST_3826,BEST,415 AS,SEEPZ BUS STATION to AGARKAR CHOWK (ANDHERI-E) (DOWN),3
+BEST_3827,BEST,415 AS,AGARKAR CHOWK (ANDHERI-E) to SEEPZ BUS STATION (UP),3
+BEST_4209,BEST,416 AS,AMRUT NAGAR (VIKHROLI-W) to GHATKOPAR STATION (W) (DOWN),3
+BEST_4210,BEST,416 AS,GHATKOPAR STATION (W) to AMRUT NAGAR (VIKHROLI-W) (UP),3
+BEST_2101,BEST,418,HIRANANDANI; POWAI BUS STATION to VIKHROLI STATION (W) (DOWN),3
+BEST_2102,BEST,418,VIKHROLI STATION (W) to HIRANANDANI; POWAI BUS STATION (UP),3
+BEST_3042,BEST,419 AS,SANGHARSH NAGAR (CHANDIVALI) to GHATKOPAR STATION (W) (DOWN),3
+BEST_3043,BEST,419 AS,GHATKOPAR STATION (W) to SANGHARSH NAGAR (CHANDIVALI) (UP),3
+BEST_3138,BEST,421 AS,MHADA COLONY (CHANDIVALI) to GHATKOPAR STATION (W) (DOWN),3
+BEST_3140,BEST,421 AS,GHATKOPAR STATION (W) to MHADA COLONY (CHANDIVALI) (UP),3
+BEST_4181,BEST,422 AS,BANDRA (W) BUS STATION to VIKHROLI DEPOT (DOWN),3
+BEST_4182,BEST,422 AS,VIKHROLI DEPOT to BANDRA (W) BUS STATION (UP),3
+BEST_4430,BEST,423,SANGHARSH NAGAR (CHANDIVALI) to MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) (DOWN),3
+BEST_4431,BEST,423,MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) to SANGHARSH NAGAR (CHANDIVALI) (UP),3
+BEST_4376,BEST,424 AS,GOREGAON; OSHIWARA DEPOT to MULUND RAILWAY STATION (W) (DOWN),3
+BEST_4377,BEST,424 AS,MULUND RAILWAY STATION (W) to GOREGAON; OSHIWARA DEPOT (UP),3
+BEST_4378,BEST,425 AS,VESAVA-YARI ROAD BUS STATION to SHIVAJI TALAO (BHANDUP-W) (DOWN),3
+BEST_4379,BEST,425 AS,SHIVAJI TALAO (BHANDUP-W) to VESAVA-YARI ROAD BUS STATION (UP),3
+BEST_3044,BEST,427 AS,FILTER PADA to GHATKOPAR STATION (W) (DOWN),3
+BEST_3045,BEST,427 AS,GHATKOPAR STATION (W) to FILTER PADA (UP),3
+BEST_2119,BEST,428,SADBHAKTI MANDIR to KOKAN NAGAR (BHANDUP-W) (DOWN),3
+BEST_2120,BEST,428,KOKAN NAGAR (BHANDUP-W) to SADBHAKTI MANDIR (UP),3
+BEST_3046,BEST,430 AS,GHATKOPAR BUS STATION to MAHUL VILLAGE (DOWN),3
+BEST_3047,BEST,430 AS,MAHUL VILLAGE to GHATKOPAR BUS STATION (UP),3
+BEST_2916,BEST,431 AS,TATA POWER CENTRE (MAHUL) to KURLA BUS STATION (E) (DOWN),3
+BEST_2917,BEST,431 AS,KURLA BUS STATION (E) to TATA POWER CENTRE (MAHUL) (UP),3
+BEST_3654,BEST,432 AS,VIVEKANAND SCHOOL (CHEMBUR) to KURLA BUS STATION (E) (DOWN),3
+BEST_3655,BEST,432 AS,KURLA BUS STATION (E) to VIVEKANAND SCHOOL (CHEMBUR) (UP),3
+BEST_4448,BEST,433 AS,ANDHERI STATION (W) to GHATKOPAR BUS STATION (DOWN),3
+BEST_4449,BEST,433 AS,GHATKOPAR BUS STATION to ANDHERI STATION (W) (UP),3
+BEST_4329,BEST,434,BAMANDAYA PADA to AGARKAR CHOWK (ANDHERI E) (DOWN),3
+BEST_4330,BEST,434,AGARKAR CHOWK to BAMANDAYA PADA (UP),3
+BEST_2972,BEST,440 C,BORIVALI (E) STATION to WADALA BUS DEPOT (DOWN),3
+BEST_2973,BEST,440 C,WADALA BUS DEPOT to BORIVALI (E) STATION (UP),3
+BEST_2133,BEST,441,MAJAS DEPOT to AGARKAR CHOWK (ANDHERI-E) (DOWN),3
+BEST_2134,BEST,441,AGARKAR CHOWK (ANDHERI-E) to MAJAS DEPOT (UP),3
+BEST_798,BEST,442,MHADA COLONY (MAJAS) to SADBHAKTI MANDIR (DOWN),3
+BEST_2135,BEST,442,SADBHAKTI MANDIR to MHADA COLONY (MAJAS) (UP),3
+BEST_2136,BEST,443,BAMANDAYA PADA to AGARKAR CHOWK (ANDHERI E) (DOWN),3
+BEST_2137,BEST,443,AGARKAR CHOWK (ANDHERI-E) to BAMANDAYA PADA (UP),3
+BEST_2138,BEST,446,BAMANDAYA PADA to KURLA STATION (W) (DOWN),3
+BEST_2139,BEST,446,KURLA STATION (W) to BAMANDAYA PADA (UP),3
+BEST_2140,BEST,447,SANTOSH NAGAR (EXTENSION) to GOREGAON STATION (E) (DOWN),3
+BEST_2141,BEST,447,GOREGAON STATION (E) to SANTOSH NAGAR (EXTENSION) (UP),3
+BEST_3922,BEST,451 AS,ADARSH NAGAR (AAREY COLONY) to GOREGAON STATION (E) (DOWN),3
+BEST_3923,BEST,451 AS,GOREGAON STATION (E) to ADARSH NAGAR (AAREY COLONY) (UP),3
+BEST_4219,BEST,452 AS,MAYUR NAGAR (AAREY COLONY) to GOREGAON STATION (E) (DOWN),3
+BEST_4220,BEST,452 AS,GOREGAON STATION (E) to MAYUR NAGAR (AAREY COLONY) (UP),3
+BEST_3678,BEST,453 AS,LOKMANYA NAGAR (THANE) to GHATKOPAR BUS STATION (DOWN),3
+BEST_3679,BEST,453 AS,GHATKOPAR BUS STATION to LOKMANYA NAGAR (THANE) (UP),3
+BEST_4380,BEST,454 AS,SHIVSHAHI PRAKALP; MANTRI PARK to SEVEN BUNGALOWS BUS STATION (DOWN),3
+BEST_4381,BEST,454 AS,SEVEN BUNGALOWS BUS STATION to SHIVSHAHI PRAKALP; MANTRI PARK (UP),3
+BEST_4231,BEST,456 RING,SHIVSHAHI PRAKALP; MANTRI PARK to MALVANI DEPOT; GAIKWAD NAGAR (DOWN),3
+BEST_4232,BEST,456 RING,MALVANI DEPOT; GAIKWAD NAGAR to SHIVSHAHI PRAKALP; MANTRI PARK (UP),3
+BEST_4398,BEST,458 AS,BORIVALI (E) STATION to DEONAR DEPOT (DOWN),3
+BEST_4399,BEST,458 AS,DEONAR DEPOT to BORIVALI (E) STATION (UP),3
+BEST_4217,BEST,459 AS,MALVANI DEPOT; GAIKWAD NAGAR to MULUND RAILWAY STATION (W) (DOWN),3
+BEST_4218,BEST,459 AS,MULUND RAILWAY STATION (W) to MALVANI DEPOT; GAIKWAD NAGAR (UP),3
+BEST_2158,BEST,460 LTD,GORAI DEPOT to MULUND RAILWAY STATION (W) (DOWN),3
+BEST_2159,BEST,460 LTD,MULUND RAILWAY STATION (W) to GORAI DEPOT (UP),3
+BEST_3866,BEST,461 AS,PRABODHANKAR THACKERAY NAGAR BUS STATION (CHARKOP) to MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) (DOWN),3
+BEST_3867,BEST,461 AS,MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) to PRABODHANKAR THACKERAY NAGAR BUS STATION (CHARKOP) (UP),3
+BEST_2878,BEST,462 AS,VAISHALI NAGAR (DAHISAR-E) to BORIVALI (E) STATION (DOWN),3
+BEST_2879,BEST,462 AS,BORIVALI (E) STATION to VAISHALI NAGAR (DAHISAR-E) (UP),3
+BEST_4150,BEST,463 AS,DHARAVI DEPOT to VEER HUTATMA BHAI KOTWAL UDYAN (PLAZA) (DOWN),3
+BEST_4151,BEST,463 AS,VEER HUTATMA BHAI KOTWAL UDYAN (PLAZA) to DHARAVI DEPOT (UP),3
+BEST_4177,BEST,464 AS,GOREGAON; OSHIWARA DEPOT to GHATKOPAR BUS STATION (DOWN),3
+BEST_4178,BEST,464 AS,GHATKOPAR BUS STATION to GOREGAON; OSHIWARA DEPOT (UP),3
+BEST_4396,BEST,465 AS,PRABODHANKAR THACKERAY NAGAR BUS STATION (CHARKOP) to MAROL DEPOT (DOWN),3
+BEST_4397,BEST,465 AS,MAROL DEPOT to PRABODHANKAR THACKERAY NAGAR BUS STATION (CHARKOP) (UP),3
+BEST_4382,BEST,469 AS,GOREGAON; OSHIWARA DEPOT to MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) (DOWN),3
+BEST_4383,BEST,469 AS,MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) to GOREGAON; OSHIWARA DEPOT (UP),3
+BEST_3796,BEST,470 AS,BORIVALI (E) STATION to GHATKOPAR BUS STATION (DOWN),3
+BEST_3797,BEST,470 AS,GHATKOPAR BUS STATION to BORIVALI (E) STATION (UP),3
+BEST_3892,BEST,471 AS,BORIVALI (E) STATION to GHATKOPAR BUS STATION (DOWN),3
+BEST_3893,BEST,471 AS,GHATKOPAR BUS STATION to BORIVALI (E) STATION (UP),3
+BEST_4333,BEST,473 AS,MAHUL VILLAGE to SANTACRUZ DEPOT (DOWN),3
+BEST_4334,BEST,473 AS,SANTACRUZ DEPOT to MAHUL VILLAGE (UP),3
+BEST_2880,BEST,477 AS,RUSHIVAN to BORIVALI (E) STATION (DOWN),3
+BEST_2881,BEST,477 AS,BORIVALI (E) STATION to RUSHIVAN (UP),3
+BEST_4152,BEST,478 AS,BORIVALI (E) STATION to VIKHROLI DEPOT (DOWN),3
+BEST_4153,BEST,478 AS,VIKHROLI DEPOT to BORIVALI (E) STATION (UP),3
+BEST_2882,BEST,479 AS,JANTA NAGAR (KANDIVALI-E) to BORIVALI (E) STATION (DOWN),3
+BEST_2883,BEST,479 AS,BORIVALI (E) STATION to JANTA NAGAR (KANDIVALI-E) (UP),3
+BEST_2672,BEST,481 AS,VASHI NAKA (CHEMBUR); M.M.R.D.A COLONY to GHATKOPAR BUS STATION (DOWN),3
+BEST_2673,BEST,481 AS,GHATKOPAR BUS STATION to VASHI NAKA (CHEMBUR); M.M.R.D.A COLONY (UP),3
+BEST_3122,BEST,484 AS,PAWAR NAGAR BUS STATION (THANE) to MHADA COLONY BUS STATION (MULUND-E) (DOWN),3
+BEST_3123,BEST,484 AS,MHADA COLONY BUS STATION (MULUND-E) to PAWAR NAGAR BUS STATION (THANE) (UP),3
+BEST_3009,BEST,488 AS,DINDOSHI DEPOT to SHIVAJI NAGAR DEPOT (DOWN),3
+BEST_3010,BEST,488 AS,SHIVAJI NAGAR DEPOT to DINDOSHI DEPOT (UP),3
+BEST_2190,BEST,489 LTD,DINDOSHI DEPOT to SHIVAJI NAGAR BUS STATION (DOWN),3
+BEST_2191,BEST,489 LTD,SHIVAJI NAGAR BUS STATION to DINDOSHI DEPOT (UP),3
+BEST_4243,BEST,490 AS,DADLANI PARK (THANE-W) to MANTRALAYA (DOWN),3
+BEST_4244,BEST,490 AS,MANTRALAYA to DADLANI PARK (THANE-W) (UP),3
+BEST_4663,BEST,490 AS,GHATKOPAR DEPOT to MANTRALAYA (DOWN),3
+BEST_4664,BEST,490 AS,MANTRALAYA to GHATKOPAR DEPOT (UP),3
+BEST_4144,BEST,491 AS,DADLANI PARK (THANE-W) to RANI LAXMIBAI CHOWK (SION) (DOWN),3
+BEST_4145,BEST,491 AS,RANI LAXMIBAI CHOWK (SION) to DADLANI PARK (THANE-W) (UP),3
+BEST_4556,BEST,492 AS,BHOOMI ACRES THANE to MAJAS DEPOT (DOWN),3
+BEST_4557,BEST,492 AS,MAJAS DEPOT to BHOOMI ACRES THANE (UP),3
+BEST_4311,BEST,493 AS,MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) to DEONAR DEPOT (DOWN),3
+BEST_4312,BEST,493 AS,DEONAR DEPOT to MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) (UP),3
+BEST_2756,BEST,494 AS,RETI BUNDER; KHARIGAON (KALWA) to GHATKOPAR BUS STATION (DOWN),3
+BEST_2757,BEST,494 AS,GHATKOPAR BUS STATION to RETI BUNDER; KHARIGAON (KALWA) (UP),3
+BEST_3935,BEST,496 LTD,MARATHON CHOWK (TEEN HATH NAKA) to AGARKAR CHOWK (ANDHERI-E) (DOWN),3
+BEST_3936,BEST,496 LTD,AGARKAR CHOWK (ANDHERI-E) to MARATHON CHOWK (TEEN HATH NAKA) (UP),3
+BEST_3894,BEST,498 AS,BORIVALI (E) STATION to SANGHARSH NAGAR (CHANDIVALI) (DOWN),3
+BEST_3895,BEST,498 AS,SANGHARSH NAGAR (CHANDIVALI) to BORIVALI (E) STATION (UP),3
+BEST_3742,BEST,499 AS,VRINDAVAN SOCIETY (THANE) to GHATKOPAR BUS STATION (DOWN),3
+BEST_3743,BEST,499 AS,GHATKOPAR BUS STATION to VRINDAVAN SOCIETY (THANE) (UP),3
+BEST_2819,BEST,5 AS,KURLA BUS STATION (E) to MANTRALAYA (DOWN),3
+BEST_2820,BEST,5 AS,MANTRALAYA to KURLA BUS STATION (E) (UP),3
+BEST_1567,BEST,50,WORLI DEPOT to FERRY WHARF (DOWN),3
+BEST_1568,BEST,50,FERRY WHARF to WORLI DEPOT (UP),3
+BEST_3494,BEST,51,SANTACRUZ DEPOT to COLABA BUS STATION (DOWN),3
+BEST_3495,BEST,51,COLABA BUS STATION to SANTACRUZ DEPOT (UP),3
+BEST_1571,BEST,52 RING,SHRAWAN YASHWANTE CHOWK (KALA CHOWKY) to DHARAVI DEPOT (DOWN),3
+BEST_1572,BEST,52 RING,DHARAVI DEPOT to SHRAWAN YASHWANTE CHOWK (KALA CHOWKY) (UP),3
+BEST_4167,BEST,53 AS,KALAMBOLI BUS STATION to GHATKOPAR BUS STATION (DOWN),3
+BEST_4168,BEST,53 AS,GHATKOPAR BUS STATION to KALAMBOLI BUS STATION (UP),3
+BEST_3149,BEST,54 C,AIROLI BUS STATION to WADALA BUS DEPOT (DOWN),3
+BEST_3150,BEST,54 C,WADALA BUS DEPOT to AIROLI BUS STATION (UP),3
+BEST_1382,BEST,55 C,C.B.D. BELAPUR BUS STATION to SANTACRUZ DEPOT (DOWN),3
+BEST_4277,BEST,55 C,SANTACRUZ DEPOT to C.B.D. BELAPUR BUS STATION (UP),3
+BEST_1579,BEST,57,PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) to WALKESHWAR (DOWN),3
+BEST_1580,BEST,57,WALKESHWAR to PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) (UP),3
+BEST_3682,BEST,58 AS,KURLA BUS STATION (E) to WADALA TRUCK TERMINAL (DOWN),3
+BEST_3683,BEST,58 AS,WADALA TRUCK TERMINAL to KURLA BUS STATION (E) (UP),3
+BEST_2909,BEST,59 AS,KURLA BUS STATION (E) to VEER HUTATMA BHAI KOTWAL UDYAN (PLAZA) (DOWN),3
+BEST_2910,BEST,59 AS,VEER HUTATMA BHAI KOTWAL UDYAN (PLAZA) to KURLA BUS STATION (E) (UP),3
+BEST_3973,BEST,501 LTD,AIROLI BUS STATION to KURLA BUS STATION (E) (DOWN),3
+BEST_3974,BEST,501 LTD,KURLA BUS STATION (E) to AIROLI BUS STATION (UP),3
+BEST_4474,BEST,502 AS,NERUL SECTOR 46; 48 to SHIVAJI NAGAR DEPOT (DOWN),3
+BEST_4475,BEST,502 AS,SHIVAJI NAGAR DEPOT to NERUL SECTOR 46; 48 (UP),3
+BEST_4211,BEST,504 AS,JALVAYU VIHAR (KHARGHAR) to SHIVAJI NAGAR DEPOT (DOWN),3
+BEST_4212,BEST,504 AS,SHIVAJI NAGAR DEPOT to JALVAYU VIHAR (KHARGHAR) (UP),3
+BEST_3128,BEST,505 C,C.B.D. BELAPUR BUS STATION to SANTACRUZ DEPOT (DOWN),3
+BEST_3129,BEST,505 C,SANTACRUZ DEPOT to C.B.D. BELAPUR BUS STATION (UP),3
+BEST_3878,BEST,507 AS,NERUL BUS STATION to SANTACRUZ STATION (E) (DOWN),3
+BEST_3879,BEST,507 AS,SANTACRUZ STATION (E) to NERUL BUS STATION (UP),3
+BEST_1169,BEST,512 LTD,NERUL BUS STATION to MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) (DOWN),3
+BEST_1170,BEST,512 LTD,MAHARANA PRATAP CHOWK (MULUND CHECK NAKA-W) to NERUL BUS STATION (UP),3
+BEST_4452,BEST,513 C,VASHI RAILWAY STATION to MULUND DEPOT (DOWN),3
+BEST_4453,BEST,513 C,MULUND DEPOT to VASHI RAILWAY STATION (UP),3
+BEST_3874,BEST,517 AS,VASHI SECTOR 19 to SANTACRUZ STATION (E) (DOWN),3
+BEST_3875,BEST,517 AS,SANTACRUZ STATION (E) to VASHI SECTOR 19 (UP),3
+BEST_3104,BEST,521 C,GHANSOLI VILLAGE to WADALA BUS DEPOT (DOWN),3
+BEST_3105,BEST,521 C,WADALA BUS DEPOT to GHANSOLI VILLAGE (UP),3
+BEST_4186,BEST,522 LTD,MILLENNIUM BUSINESS PARK (MAHAPE) to MAJAS DEPOT (DOWN),3
+BEST_4187,BEST,522 LTD,MAJAS DEPOT to MILLENNIUM BUSINESS PARK (MAHAPE) (UP),3
+BEST_2206,BEST,523 LTD,AIROLI BUS STATION to DINDOSHI DEPOT (DOWN),3
+BEST_826,BEST,523 LTD,DINDOSHI BUS STATION to AIROLI BUS STATION (UP),3
+BEST_2207,BEST,525 LTD,VASHI RAILWAY STATION to MAJAS DEPOT (DOWN),3
+BEST_828,BEST,525 LTD,MAJAS DEPOT to VASHI RAILWAY STATION (UP),3
+BEST_3992,BEST,526 LTD,JALVAYU VIHAR (KHARGHAR) to JIJAMATA UDYAN (BYCULLA) (DOWN),3
+BEST_3993,BEST,526 LTD,JIJAMATA UDYAN (BYCULLA) to JALVAYU VIHAR (KHARGHAR) (UP),3
+BEST_4499,BEST,526 AS,NERUL BUS STATION to JIJAMATA UDYAN (BYCULLA) (DOWN),3
+BEST_4500,BEST,526 AS,JIJAMATA UDYAN (BYCULLA) to NERUL BUS STATION (UP),3
+BEST_4192,BEST,533 AS,VASHI SECTOR 19 to GHATKOPAR BUS STATION (DOWN),3
+BEST_4193,BEST,533 AS,GHATKOPAR BUS STATION to VASHI SECTOR 19 (UP),3
+BEST_916,BEST,545 LTD,AIROLI BUS STATION to AGARKAR CHOWK (ANDHERI-E) (DOWN),3
+BEST_917,BEST,545 LTD,AGARKAR CHOWK (ANDHERI-E) to AIROLI BUS STATION (UP),3
+BEST_4536,BEST,6 LTD,TATA POWER CENTRE (MAHUL) to ELECTRIC HOUSE; COLABA DEPOT (DOWN),3
+BEST_4537,BEST,6 LTD,ELECTRIC HOUSE; COLABA DEPOT to TATA POWER CENTRE (MAHUL) (UP),3
+BEST_4538,BEST,6 LTD,MAHUL VILLAGE to ELECTRIC HOUSE; COLABA DEPOT (DOWN),3
+BEST_4539,BEST,6 LTD,ELECTRIC HOUSE; COLABA DEPOT to MAHUL VILLAGE (UP),3
+BEST_4647,BEST,60,KURLA BUS STATION (E) to MAHARANA PRATAP CHOWK (MAZGAON) (DOWN),3
+BEST_4648,BEST,60,MAHARANA PRATAP CHOWK (MAZGAON) to KURLA BUS STATION (E) (UP),3
+BEST_1593,BEST,61 C,MIRA ROAD STATION (E) to MULUND DEPOT (DOWN),3
+BEST_1594,BEST,61 C,MULUND DEPOT to MIRA ROAD STATION (E) (UP),3
+BEST_2571,BEST,63 AS,BYCULLA STATION (W) to J.MEHTA MARG (NAPEAN SEA ROAD) (DOWN),3
+BEST_2572,BEST,63 AS,J.MEHTA MARG (NAPEAN SEA ROAD) to BYCULLA STATION (W) (UP),3
+BEST_2691,BEST,63 AS,CHUNABHATTI BUS TERMINUS to VASANTRAO NAIK CHOWK (TARDEO) (DOWN),3
+BEST_2692,BEST,63 AS,VASANTRAO NAIK CHOWK (TARDEO) to CHUNABHATTI BUS TERMINUS (UP),3
+BEST_3307,BEST,64,NEW HIND MILL MHADA COLONY to DADAR STATION (E) (DOWN),3
+BEST_3308,BEST,64,DADAR STATION (E) to NEW HIND MILL MHADA COLONY (UP),3
+BEST_1597,BEST,66,RANI LAXMIBAI CHOWK (SION) to BALLARD PIER (DOWN),3
+BEST_1598,BEST,66,BALLARD PIER to RANI LAXMIBAI CHOWK (SION) (UP),3
+BEST_1601,BEST,67,ANTOP HILL BUS STATION to KAMALA NEHRU PARK (MALABAR HILL) (DOWN),3
+BEST_1602,BEST,67,KAMALA NEHRU PARK (MALABAR HILL) to ANTOP HILL (UP),3
+BEST_4572,BEST,69,PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) to DR. SHYAMAPRASAD MUKHERJEE CHOWK(MUSEUM)  (DOWN),3
+BEST_4573,BEST,69,DR. SHYAMAPRASAD MUKHERJEE CHOWK(MUSEUM)  to PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) (UP),3
+BEST_2208,BEST,601,TRIVENI NAGAR to MALAD STATION (E); PODDAR PARK (DOWN),3
+BEST_2209,BEST,601,MALAD STATION (E);PODDAR PARK to TRIVENI NAGAR (UP),3
+BEST_4227,BEST,602 AS,HIRANANDANI; POWAI BUS STATION to KANJUR MARG STATION (W) (DOWN),3
+BEST_4228,BEST,602 AS,KANJUR MARG STATION (W) to HIRANANDANI; POWAI BUS STATION (UP),3
+BEST_4657,BEST,603 RING,R.C.F.COLONY (BHANDUP VILLAGE E) to AMRUT NAGAR (VIKHROLI-W) (DOWN),3
+BEST_4658,BEST,603 RING,AMRUT NAGAR (VIKHROLI-W) to R.C.F.COLONY (BHANDUP VILLAGE E) (UP),3
+BEST_4454,BEST,604 AS,BHANDUP STATION (W) to KANJUR MARG STATION (W) (DOWN),3
+BEST_4455,BEST,604 AS,KANJUR MARG STATION (W) to BHANDUP STATION (W) (UP),3
+BEST_4491,BEST,605,TEMBIPADA to BHANDUP STATION (W) (DOWN),3
+BEST_4492,BEST,605,BHANDUP STATION (W) to TEMBIPADA (UP),3
+BEST_4442,BEST,606 AS,NARDAS NAGAR to BHANDUP STATION (W) (DOWN),3
+BEST_4443,BEST,606 AS,BHANDUP STATION (W) to NARDAS NAGAR (UP),3
+BEST_3734,BEST,607 AS,TULSHETPADA to BHANDUP STATION (W) (DOWN),3
+BEST_3735,BEST,607 AS,BHANDUP STATION (W) to TULSHETPADA (UP),3
+BEST_2222,BEST,608,HANUMAN NAGAR (BHANDUP-W) to KANJUR MARG STATION (W) (DOWN),3
+BEST_2223,BEST,608,KANJUR MARG STATION (W) to HANUMAN NAGAR (BHANDUP-W) (UP),3
+BEST_2224,BEST,612,HANUMAN NAGAR (BHANDUP-W) to BHANDUP STATION (W) (DOWN),3
+BEST_2225,BEST,612,BHANDUP STATION (W) to HANUMAN NAGAR (BHANDUP-W) (UP),3
+BEST_2226,BEST,613,SUNDAR BAUG (KAMANI) to VIDYA VIHAR BUS STATION (W) (DOWN),3
+BEST_2227,BEST,613,VIDYA VIHAR BUS STATION (W) to SUNDAR BAUG (KAMANI) (UP),3
+BEST_2228,BEST,618 RING,DATTA MANDIR (VAKOLA) to SANTACRUZ STATION (E) (DOWN),3
+BEST_2229,BEST,618 RING,SANTACRUZ STATION (E) to DATTA MANDIR (VAKOLA) (UP),3
+BEST_4410,BEST,620 AS,MALAD DEPOT to MALAD STATION (W) (DOWN),3
+BEST_4411,BEST,620 AS,MALAD STATION (W) to MALAD DEPOT (UP),3
+BEST_4412,BEST,621 AS,USHMA NAGAR to MALAD STATION (W) (DOWN),3
+BEST_4413,BEST,621 AS,MALAD STATION (W) to USHMA NAGAR (UP),3
+BEST_4414,BEST,622 AS,JANKALYAN NAGAR POLICE CHOWKY to MALAD STATION (W) (DOWN),3
+BEST_4415,BEST,622 AS,MALAD STATION (W) to JANKALYAN NAGAR POLICE CHOWKY (UP),3
+BEST_4602,BEST,624 AS,ANAND NAGAR; APPAPADA (MALAD-E) to MALAD STATION (E); PODDAR PARK (DOWN),3
+BEST_4603,BEST,624 AS,MALAD STATION (E);PODDAR PARK to ANAND NAGAR; APPAPADA (MALAD-E) (UP),3
+BEST_4038,BEST,626 AS,BHUJALE TALAO to MALAD STATION (W) (DOWN),3
+BEST_4039,BEST,626 AS,MALAD STATION (W) to BHUJALE TALAO (UP),3
+BEST_4000,BEST,627,MORA VILLAGE to ANDHERI STATION (W) (DOWN),3
+BEST_4001,BEST,627,ANDHERI STATION (W) to MORA VILLAGE (UP),3
+BEST_2817,BEST,629 AS,BORIVALI (E) STATION to SAMATA NAGAR BUS STATION (KANDIVALI E) (DOWN),3
+BEST_2818,BEST,629 AS,SAMATA NAGAR BUS STATION (KANDIVALI E) to BORIVALI (E) STATION (UP),3
+BEST_4343,BEST,646 RING,NAAGRI NIWARA 1 & 2 to GOREGAON STATION (E) (DOWN),3
+BEST_4344,BEST,646 RING,GOREGAON STATION (E) BUS STATION to NAAGRI NIWARA 1 & 2 (UP),3
+BEST_3752,BEST,663 AS,TROMBAY to MAHUL VILLAGE (DOWN),3
+BEST_3753,BEST,663 AS,MAHUL VILLAGE to TROMBAY (UP),3
+BEST_2811,BEST,696 AS,KOKANIPADA (EXTENSION) (BORIVALI -E) to DAHISAR STN (E) (DOWN),3
+BEST_2812,BEST,696 AS,DAHISAR STN (E) to KOKANIPADA (EXTENSION) (BORIVALI -E) (UP),3
+BEST_2842,BEST,698 AS,N.G.PARK to BORIVALI (E) STATION (DOWN),3
+BEST_2843,BEST,698 AS,BORIVALI (E) STATION to N.G.PARK (UP),3
+BEST_4171,BEST,7 AS,VIKHROLI DEPOT to VIJAY VALLABH CHOWK (PYDHONIE) (DOWN),3
+BEST_4172,BEST,7 AS,VIJAY VALLABH CHOWK (PYDHONIE) to VIKHROLI DEPOT (UP),3
+BEST_4175,BEST,7 AS,BARVE NAGAR to VIJAY VALLABH CHOWK (PYDHONIE) (DOWN),3
+BEST_4176,BEST,7 AS,VIJAY VALLABH CHOWK (PYDHONIE) to BARVE NAGAR (UP),3
+BEST_1604,BEST,71 C,MIRA ROAD STATION (E) to DHARAVI DEPOT (DOWN),3
+BEST_1605,BEST,71 C,DHARAVI DEPOT to MIRA ROAD STATION (E) (UP),3
+BEST_3420,BEST,72 AS,BHAYANDER STATION (E) to DHARAVI DEPOT (DOWN),3
+BEST_3421,BEST,72 AS,DHARAVI DEPOT to BHAYANDER STATION (E) (UP),3
+BEST_1608,BEST,75,CHUNABHATTI BUS TERMINUS to VALENCIA BUILDING (DOWN),3
+BEST_1609,BEST,75,VALENCIA BUILDING to CHUNABHATTI BUS TERMINUS (UP),3
+BEST_3870,BEST,78 AS,BYCULLA STATION (W) to DR. SHYAMAPRASAD MUKHERJEE CHOWK(MUSEUM)  (DOWN),3
+BEST_3871,BEST,78 AS,DR. SHYAMAPRASAD MUKHERJEE CHOWK(MUSEUM)  to BYCULLA STATION (W) (UP),3
+BEST_4016,BEST,79,GORAI DEPOT to SANTACRUZ DEPOT (DOWN),3
+BEST_4017,BEST,79,SANTACRUZ DEPOT to GORAI DEPOT (UP),3
+BEST_4006,BEST,700 AS,THANE STATION (E) to MAGATHANE DEPOT (DOWN),3
+BEST_4007,BEST,700 AS,MAGATHANE DEPOT to THANE STATION (E) (UP),3
+BEST_3817,BEST,701 AS,MIRA ROAD STATION to SAMATA NAGAR BUS STATION (KANDIVALI-E) (DOWN),3
+BEST_3818,BEST,701 AS,SAMATA NAGAR BUS STATION (KANDIVALI E) to MIRA ROAD STATION (E) (UP),3
+BEST_3188,BEST,702 AS,GHODBUNDER VILLAGE to MAGATHANE DEPOT (DOWN),3
+BEST_3189,BEST,702 AS,MAGATHANE DEPOT to GHODBUNDER VILLAGE (UP),3
+BEST_3908,BEST,703 AS,MIRA ROAD STATION to SAMATA NAGAR BUS STATION (KANDIVALI-E) (DOWN),3
+BEST_3909,BEST,703 AS,SAMATA NAGAR BUS STATION (KANDIVALI E) to MIRA ROAD STATION (UP),3
+BEST_2258,BEST,706 LTD,BHAYANDER STATION (E) to MAROL DEPOT (DOWN),3
+BEST_2259,BEST,706 LTD,MAROL DEPOT to BHAYANDER STATION (E) (UP),3
+BEST_2260,BEST,707 LTD,BHAYANDER STATION (E) to GOREGAON; OSHIWARA DEPOT (DOWN),3
+BEST_2261,BEST,707 LTD,GOREGAON; OSHIWARA DEPOT to BHAYANDER STATION (E) (UP),3
+BEST_4008,BEST,709 AS,BHAYANDER STATION (E) to MAGATHANE DEPOT (DOWN),3
+BEST_4009,BEST,709 AS,MAGATHANE DEPOT to BHAYANDER STATION (E) (UP),3
+BEST_4138,BEST,710 LTD,BHAYANDER RAILWAY STATION (W) to MAGATHANE DEPOT (DOWN),3
+BEST_4139,BEST,710 LTD,MAGATHANE DEPOT to BHAYANDER RAILWAY STATION (W) (UP),3
+BEST_2964,BEST,718 C,BHAYANDER STATION (E) to DINDOSHI BUS STATION (DOWN),3
+BEST_2965,BEST,718 C,DINDOSHI DEPOT to BHAYANDER STATION (E) (UP),3
+BEST_4198,BEST,8 AS,SHIVAJI NAGAR (GOVANDI) TERMINUS to MANTRALAYA (DOWN),3
+BEST_4199,BEST,8 AS,MANTRALAYA to SHIVAJI NAGAR (GOVANDI) TERMINUS (UP),3
+BEST_3229,BEST,82 AS,WORLI DEPOT to MANTRALAYA (DOWN),3
+BEST_3230,BEST,82 AS,MANTRALAYA to WORLI DEPOT (UP),3
+BEST_1624,BEST,83,SANTACRUZ DEPOT to COLABA BUS STATION (DOWN),3
+BEST_1625,BEST,83,COLABA BUS STATION to SANTACRUZ DEPOT (UP),3
+BEST_4337,BEST,84 AS,GOREGAON; OSHIWARA DEPOT to DR. SHYAMAPRASAD MUKHERJEE CHOWK(MUSEUM)  (DOWN),3
+BEST_4338,BEST,84 AS,DR. SHYAMAPRASAD MUKHERJEE CHOWK(MUSEUM)  to GOREGAON; OSHIWARA DEPOT (UP),3
+BEST_3947,BEST,85 AS,KURLA BUS STATION (E) to PT.PALUSKAR CHOWK (DOWN),3
+BEST_3948,BEST,85 AS,PT.PALUSKAR CHOWK to KURLA BUS STATION (E) (UP),3
+BEST_3959,BEST,86 C,BANDRA (W) BUS STATION to BACKBAY DEPOT (DOWN),3
+BEST_3960,BEST,86 C,BACKBAY DEPOT to BANDRA (W) BUS STATION (UP),3
+BEST_1632,BEST,87 LTD,BANDRA COLONY BUS STATION to MANTRALAYA (DOWN),3
+BEST_1633,BEST,87 LTD,MANTRALAYA to BANDRA COLONY BUS STATION (UP),3
+BEST_1636,BEST,88,PRATIKSHA NAGAR DEPOT to MANTRALAYA (DOWN),3
+BEST_1637,BEST,88,MANTRALAYA to PRATIKSHA NAGAR DEPOT (UP),3
+BEST_3233,BEST,89 AS,WORLI DEPOT to MANTRALAYA (DOWN),3
+BEST_3234,BEST,89 AS,MANTRALAYA to WORLI DEPOT (UP),3
+BEST_939,BEST,809 AS,N.C.P.A. to AHILYABAI HOLKAR CHOWK (CHURCHGATE) (DOWN),3
+BEST_2422,BEST,809 AS,AHILYABAI HOLKAR CHOWK (CHURCHGATE) to N.C.P.A. (UP),3
+BEST_4103,BEST,811,BHANDUP POLICE STATION to BHANDUP VILLAGE (E) (DOWN),3
+BEST_4104,BEST,811,BHANDUP VILLAGE (E) to BHANDUP POLICE STATION (UP),3
+BEST_4656,BEST,814 AS,DADAR STN (W) to PRABHADEVI; RAVINDRA NATYA MANDIR (UP),3
+BEST_3628,BEST,887 null,DR. SHYAMAPRASAD MUKHERJEE CHOWK(MUSEUM)  to DR. SHYAMAPRASAD MUKHERJEE CHOWK(MUSEUM)  (UP),3
+BEST_1480,BEST,9,ANTOP HILL BUS STATION to COLABA BUS STATION (DOWN),3
+BEST_1481,BEST,9,COLABA BUS STATION to ANTOP HILL (UP),3
+BEST_2813,BEST,92 AS,ANUSHAKTI NAGAR BUS STATION to VASANTRAO NAIK CHOWK (DOWN),3
+BEST_2814,BEST,92 AS,VASANTRAO NAIK CHOWK to ANUSHAKTI NAGAR BUS STATION (UP),3
+BEST_4105,BEST,901 LTD,R.C.CHURCH (COLABA) to BACKBAY DEPOT (DOWN),3
+BEST_4107,BEST,902 LTD,COLABA BUS STATION to BACKBAY DEPOT (DOWN),3
+BEST_4108,BEST,902 LTD,BACKBAY DEPOT to COLABA BUS STATION (UP),3
+BEST_4044,BEST,909 LTD,DINDOSHI BUS STATION to DINDOSHI DEPOT (DOWN),3
+BEST_4045,BEST,909 LTD,DINDOSHI DEPOT to DINDOSHI BUS STATION (UP),3
+BEST_4200,BEST,910 LTD,SHIVAJI NAGAR BUS STATION to SHIVAJI NAGAR DEPOT (DOWN),3
+BEST_4201,BEST,910 LTD,SHIVAJI NAGAR DEPOT to SHIVAJI NAGAR BUS STATION (UP),3
+BEST_4046,BEST,910 AS,SHIVAJI NAGAR BUS STATION to SHIVAJI NAGAR DEPOT (DOWN),3
+BEST_4047,BEST,910 AS,SHIVAJI NAGAR DEPOT to SHIVAJI NAGAR BUS STATION (UP),3
+BEST_4048,BEST,913 LTD,DHARAVI DEPOT to BANDRA COLONY BUS STATION (UP),3
+BEST_4114,BEST,916 LTD,DEONAR DEPOT to SAMRAT ASHOK NAGAR (DEONAR) (UP),3
+BEST_4305,BEST,920 LTD,SAIBABA PARK (EVERSHINE NAGAR) to MALAD DEPOT (DOWN),3
+BEST_4306,BEST,920 LTD,MALAD DEPOT to SAIBABA PARK (EVERSHINE NAGAR) (UP),3
+BEST_4051,BEST,921 LTD,WADALA BUS DEPOT to DADAR STATION (E) (DOWN),3
+BEST_4052,BEST,921 LTD,DADAR STATION (E) to WADALA BUS DEPOT (UP),3
+BEST_4146,BEST,921,KURLA DEPOT to DHARAVI DEPOT (DOWN),3
+BEST_4147,BEST,921,DHARAVI DEPOT to KURLA DEPOT (UP),3
+BEST_3994,BEST,921 LTD,WADALA BUS DEPOT to PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) (DOWN),3
+BEST_3995,BEST,921 LTD,PRABODHANKAR THACKERAY UDYAN BUS STATION (SEWREE) to WADALA BUS DEPOT (UP),3
+BEST_4488,BEST,921 AS,BANDRA (E) BUS STATION to KURLA STATION (W) (DOWN),3
+BEST_4054,BEST,921 AS,MHADA COLONY (MAJAS) to MAROL DEPOT (DOWN),3
+BEST_4055,BEST,921 AS,MAROL DEPOT to MHADA COLONY (MAJAS) (UP),3
+BEST_4115,BEST,922,RANI LAXMIBAI CHOWK (SION) to ANIK DEPOT (DOWN),3
+BEST_4116,BEST,922,ANIK DEPOT to RANI LAXMIBAI CHOWK (SION) (UP),3
+BEST_4117,BEST,922 LTD,PRATIKSHA NAGAR DEPOT to ANIK DEPOT (DOWN),3
+BEST_4118,BEST,922 LTD,ANIK DEPOT to PRATIKSHA NAGAR DEPOT (UP),3
+BEST_4119,BEST,922 LTD,WORLI DEPOT to COMRADE P.K.KURNE CHOWK (WORLI ) (UP),3
+BEST_4120,BEST,922 RING,BANDRA (E) BUS STATION to DHARAVI DEPOT (DOWN),3
+BEST_4121,BEST,922 RING,DHARAVI DEPOT to BANDRA (E) BUS STATION (UP),3
+BEST_4122,BEST,922 RING,DIAMOND BOURSE (BKC) to DHARAVI DEPOT (DOWN),3
+BEST_4123,BEST,922 RING,DHARAVI DEPOT to DIAMOND BOURSE (BKC) (UP),3
+BEST_4056,BEST,922 AS,SANTACRUZ DEPOT to SANTACRUZ STATION (W) (DOWN),3
+BEST_4057,BEST,922 AS,SANTACRUZ STATION (W) to SANTACRUZ DEPOT (UP),3
+BEST_4278,BEST,923,RAILWAY POLICE COLONY to GHATKOPAR DEPOT (DOWN),3
+BEST_3981,BEST,924,KURLA (W) LEVEL CROSSING to DHARAVI DEPOT (DOWN),3
+BEST_3982,BEST,924,DHARAVI DEPOT to KURLA (W) LEVEL CROSSING (UP),3
+BEST_3983,BEST,924 LTD,MANKHURD STATION (SOUTH) EXTN to DEONAR DEPOT (DOWN),3
+BEST_3984,BEST,924 LTD,DEONAR DEPOT to MANKHURD STATION (SOUTH) EXTN (UP),3
+BEST_3985,BEST,924 RING,INDIAN OIL OFFICE (BKC) to KURLA STATION (W) (DOWN),3
+BEST_3986,BEST,924 RING,KURLA STATION (W) to INDIAN OIL OFFICE (BKC) (UP),3
+BEST_4247,BEST,924 RING,WADALA FLYOVER BRIDGE to WADALA STATION (W) (DOWN),3
+BEST_3987,BEST,924 C,SANKALP SOCIETY to PATHANWADI (DOWN),3
+BEST_4154,BEST,924 C,PATHANWADI to SANKALP SOCIETY (UP),3
+BEST_4058,BEST,924 AS,C.A.INSTITUTE (BKC) to KURLA STATION (W) (DOWN),3
+BEST_4059,BEST,924 AS,KURLA STATION (W) to C.A.INSTITUTE (BKC) (UP),3
+BEST_4273,BEST,924 null,DHARAVI DEPOT to RANI LAXMIBAI CHOWK (SION) (DOWN),3
+BEST_4274,BEST,924 null,RANI LAXMIBAI CHOWK (SION) to DHARAVI DEPOT (UP),3
+BEST_3988,BEST,926,DHARAVI T JUNCTION; TAPASE CHOWK to SHAHU NAGAR (DHARAVI) (DOWN),3
+BEST_3989,BEST,926,SHAHU NAGAR (DHARAVI) to DHARAVI T JUNCTION; TAPASE CHOWK (UP),3
+BEST_4060,BEST,926 LTD,MUMBAI CENTRAL DEPOT to GRANT ROAD STATION (E) (DOWN),3
+BEST_4061,BEST,926 LTD,BAWLA MASJID to DAWN MILL (UP),3
+BEST_4155,BEST,926,KURLA (W) LEVEL CROSSING to DHARAVI DEPOT (DOWN),3
+BEST_4156,BEST,926,DHARAVI DEPOT to KURLA (W) LEVEL CROSSING (UP),3
+BEST_4157,BEST,926 LTD,INDIAN OIL OFFICE (BKC) to BANDRA STATION (E) (DOWN),3
+BEST_4158,BEST,926 LTD,BANDRA STATION (E) to INDIAN OIL OFFICE (BKC) (UP),3
+BEST_4159,BEST,926 RING,INDIAN OIL OFFICE (BKC) to KURLA STATION (W) (DOWN),3
+BEST_4160,BEST,926 RING,KURLA STATION (W) to INDIAN OIL OFFICE (BKC) (UP),3
+BEST_4161,BEST,926 RING,BANDRA (E) BUS STATION to BANDRA STATION (E) (DOWN),3
+BEST_4162,BEST,926 RING,BANDRA STATION (E) to BANDRA (E) BUS STATION (UP),3
+BEST_4245,BEST,927,GOKULDHAM to DINDOSHI DEPOT (DOWN),3
+BEST_4246,BEST,927,DINDOSHI DEPOT to GOKULDHAM (UP),3
+BEST_4651,BEST,928 AS,BANDRA POLICE STATION to BANDRA TALKIES; SHROFF EYE HOSPITAL (DOWN),3
+BEST_4652,BEST,928 AS,BANDRA TALKIES; SHROFF EYE HOSPITAL to BANDRA POLICE STATION (UP),3
+BEST_4653,BEST,931 RING,DINDOSHI DEPOT to DINDOSHI DEPOT (DOWN),3
+BEST_4654,BEST,931 RING,DINDOSHI DEPOT to DINDOSHI DEPOT (UP),3
+VVMT_1,VVMT,101,Sativali Gaavdevi Mandir to Sativali Gaavdevi Mandir,3
+VVMT_2,VVMT,102,Range Office to Vasai Phata,3
+VVMT_3,VVMT,106,Pydhonie to Shaha Industry,3
+VVMT_10,VVMT,120,Vasai Station (W) to Vasai S. T.,3
+VVMT_12,VVMT,130,Range Office to Vasai Court Tehsil,3
+VVMT_13,VVMT,202,Polhar Highway Rasta/Vasai Phata to Nalasopara Phata,3
+VVMT_14,VVMT,205,Swaminarayan Mandir to Nalasopara Depot,3
+VVMT_15,VVMT,207,Sativali Gaavdevi Mandir to Tungareshwar,3
+VVMT_17,VVMT,250,Nalasopara Bus Depot to Riddhi Vinayak Multispeciality Hospital,3
+VVMT_23,VVMT,302,Fulpada Dam to Fulpada Dam,3
+VVMT_24,VVMT,310,Shirsad Phata to Mandvi Forest Check Post,3
+VVMT_25,VVMT,304,Sativali Gaavdevi Mandir to Tungareshwar,3
+VVMT_26,VVMT,305,R.J. Nagar to Virar (E),3
+VVMT_27,VVMT,306,Aachola Gaon to Ambdai Road Junction,3
+VVMT_28,VVMT,308,Shirsad Phata to Mandvi Forest Check Post,3
+VVMT_35,VVMT,303,Shirsad Phata to Shirsad Phata,3
+VVMT_39,VVMT,105,Range Office to Industrial,3
+VVMT_40,VVMT,104,Aachola Gaon to Don Lane,3
+VVMT_43,VVMT,110,Virar (E) to Virar (E),3
+VVMT_44,VVMT,330,Matoshree Bungalow to Dwarkadhish,3
+VVMT_48,VVMT,103,Evershine City Gate to Carnival Multiplex,3
+VVMT_50,VVMT,320,Virar (E) to Viva College,3
+VVMT_53,VVMT,301,R.J. Nagar to Hill Park,3
+VVMT_4,VVMT,112,Vasai Station (W) to Killa Bunder,3
+VVMT_5,VVMT,113,Vasai Station (W) to Machhi Market,3
+VVMT_6,VVMT,114,Vasai Station (W) to Shani Mandir,3
+VVMT_7,VVMT,115,Vasai Station (W) to Hanuman Mandir (Sandor),3
+VVMT_8,VVMT,117,Tehsil Office to Hotel Bagicha,3
+VVMT_9,VVMT,119,Vasai Station (W) to Bhuigoan,3
+VVMT_11,VVMT,128,Vasai Station (W) to Samta Nagar,3
+VVMT_18,VVMT,251,Nalasopara Bus Depot to Nalasopara Bus Depot,3
+VVMT_30,VVMT,321,Arnala to Arnala,3
+VVMT_34,VVMT,122,Bapana Bridge to Bapane Highway,3
+VVMT_36,VVMT,136,Sativali Gaavdevi Mandir to Nirav Industrial Estate,3
+VVMT_37,VVMT,213,Range Office to Sadguru Kripa,3
+VVMT_42,VVMT,138,Vasai to Vasai,3
+VVMT_46,VVMT,31,Sativali Gaavdevi Mandir to Thane District Central Co-Op Bank,3
+VVMT_47,VVMT,217,Sativali Naka to Vasai Phata,3
+VVMT_49,VVMT,126,Sativali Gaavdevi Mandir to Sativali,3
+VVMT_51,VVMT,134,Naigaon to Naigaon,3
+VVMT_52,VVMT,123,Bhoidapada Naka to Railway Cross,3
+VVMT_54,VVMT,129,Nalasopara Bus Depot to Tulja Bhawani Udyan,3
+VVMT_55,VVMT,261,Nalasopara Bus Depot to Voden Naka,3
+VVMT_19,VVMT,252,Nalasopara Bus Depot to Lodha Shop,3
+VVMT_20,VVMT,253,Nalasopara Bus Depot to Nala,3
+VVMT_21,VVMT,256,Nalasopara Bus Depot to Lodha Shopp,3
+VVMT_22,VVMT,257,Nalasopara Bus Depot to Jay Vijay Nagar,3
+VVMT_31,VVMT,323,Olanda to Navpur,3
+VVMT_32,VVMT,324,Olanda to Virat Nagar,3
+VVMT_33,VVMT,326,Virar (W) to Pan Phoi,3
+VVMT_38,VVMT,328,Virar (W) to Virat Nagar,3
+VVMT_41,VVMT,329,Arnala to Syndicate Bank,3
+VVMT_45,VVMT,22,Sativali Gaavdevi Mandir to Nalasopara,3
+VVMT_56,VVMT,327,Virar (W) to Virar (W),3
+VVMT_57,VVMT,258,Nalasopara Bus Depot to Ayush Hospital,3

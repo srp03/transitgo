@@ -26,8 +26,9 @@ This project is intended as a demonstration: bus positions are simulated, and ti
 
 | Area | Technology |
 | --- | --- |
+| Mobile App | Flutter 3.47+, Dart, Riverpod 3, GoRouter, flutter_map |
 | Frontend | React 19, Vite, JavaScript |
-| Map | Leaflet with OpenStreetMap map tiles |
+| Map | Leaflet (Web), flutter_map & OpenStreetMap (Mobile) |
 | Backend | Kotlin, Spring Boot, Spring Data JPA |
 | Database | PostgreSQL |
 | Transit source data | GTFS text files in `database/` |
@@ -36,14 +37,18 @@ This project is intended as a demonstration: bus positions are simulated, and ti
 
 ```text
 .
-├── database/                 # GTFS source files
-├── frontend/                 # React/Vite application
+├── database/                 # GTFS source files (TMT, BEST, KDMT, VVMT)
+├── frontend/                 # React/Vite web application
 │   └── src/
 │       ├── components/       # Map, booking, navigation, and shared UI
 │       ├── pages/            # Home, routes, tracking, profile, and other views
 │       └── services/api.js   # Frontend API client
-└── backend/                  # Kotlin/Spring Boot API
-    └── src/main/kotlin/      # Controllers, services, entities, and GTFS importer
+├── backend/                  # Kotlin/Spring Boot REST API
+│   └── src/main/kotlin/      # Controllers, services, entities, GTFS importer, bookings
+└── mobile_flutter/           # Flutter Android application
+    ├── lib/                  # Clean architecture (core, data, providers, presentation)
+    ├── android/              # Native Android configuration & permissions
+    └── test/                 # Models & widget test suite
 ```
 
 ## Requirements
@@ -129,6 +134,11 @@ The frontend currently calls the following backend resources:
 | `GET /api/stops/search?query=...` | Search stop names |
 | `GET /api/buses` | List buses |
 | `GET /api/buses/live` | Get available simulated bus locations |
+| `POST /api/bookings` | Create server-validated ticket booking in PostgreSQL |
+| `GET /api/bookings` | List active & past ticket bookings |
+| `GET /api/bookings/{id}` | Get ticket details and QR payload |
+| `POST /api/bookings/{id}/cancel` | Cancel an active booking |
+| `GET /api/notices` | Verified TMT service notices and control room helplines |
 
 The booking and mock-payment flow is currently frontend-only; it does not create a server-side booking or charge a payment method.
 
